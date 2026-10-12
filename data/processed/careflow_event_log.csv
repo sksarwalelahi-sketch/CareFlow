@@ -1,0 +1,1152 @@
+Event_ID,Case_ID,Activity_Name,Timestamp,Department,Doctor_ID,Patient_ID,Age_Group,Event_Status,Outcome,Patient_Satisfaction_Score,Inpatient_Bed_Availability
+EVT0001_01,CASE0001,Walk-in Registered,2026-10-04 10:22:00,Front Desk,,PAT0001,0-12,Completed,Registered,3,Not Applicable
+EVT0001_02,CASE0001,Triage Started,2026-10-04 10:54:00,Triage,,PAT0001,0-12,Completed,Triage Started,3,Not Applicable
+EVT0001_03,CASE0001,Triage Completed,2026-10-04 11:35:00,Triage,,PAT0001,0-12,Completed,Triage Completed,3,Not Applicable
+EVT0001_04,CASE0001,Assigned to Waiting Area,2026-10-04 12:04:00,Emergency,,PAT0001,0-12,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0001_05,CASE0001,First Physician Contact,2026-10-04 12:15:00,Emergency,DOC002,PAT0001,0-12,Completed,Physician Assessment Started,3,Not Applicable
+EVT0001_06,CASE0001,Lab Order Placed,2026-10-04 12:36:00,Emergency,,PAT0001,0-12,Completed,Lab Order Created,3,Not Applicable
+EVT0001_07,CASE0001,Lab Results Returned,2026-10-04 12:59:00,Laboratory,,PAT0001,0-12,Completed,Lab Results Available,3,Not Applicable
+EVT0001_08,CASE0001,Treatment Started,2026-10-04 13:57:00,Treatment Room,DOC004,PAT0001,0-12,Completed,Treatment Started,3,Not Applicable
+EVT0001_09,CASE0001,Treatment Completed,2026-10-04 14:37:00,Treatment Room,DOC007,PAT0001,0-12,Completed,Treatment Completed,3,Not Applicable
+EVT0001_10,CASE0001,Discharge Order Placed,2026-10-04 15:33:00,Emergency,,PAT0001,0-12,Completed,Discharge Approved,3,Not Applicable
+EVT0001_11,CASE0001,Physical Exit,2026-10-04 16:01:00,Exit,,PAT0001,0-12,Completed,Patient Exited,3,Not Applicable
+EVT0002_01,CASE0002,Ambulance Arrived,2026-10-06 12:44:00,Emergency,,PAT0002,0-12,Completed,Ambulance Arrival Recorded,3,Unavailable
+EVT0002_02,CASE0002,Triage Started,2026-10-06 12:58:00,Triage,,PAT0002,0-12,Completed,Triage Started,3,Unavailable
+EVT0002_03,CASE0002,Triage Completed,2026-10-06 13:11:00,Triage,,PAT0002,0-12,Completed,Triage Completed,3,Unavailable
+EVT0002_04,CASE0002,Assigned to ER Bed,2026-10-06 13:34:00,Emergency,,PAT0002,0-12,Completed,ER Bed Assigned,3,Unavailable
+EVT0002_05,CASE0002,First Physician Contact,2026-10-06 13:56:00,Emergency,DOC005,PAT0002,0-12,Completed,Physician Assessment Started,3,Unavailable
+EVT0002_06,CASE0002,Lab Order Placed,2026-10-06 14:47:00,Emergency,,PAT0002,0-12,Completed,Lab Order Created,3,Unavailable
+EVT0002_07,CASE0002,Lab Results Returned,2026-10-06 15:16:00,Laboratory,,PAT0002,0-12,Completed,Lab Results Available,3,Unavailable
+EVT0002_08,CASE0002,Treatment Started,2026-10-06 16:22:00,Treatment Room,DOC007,PAT0002,0-12,Completed,Treatment Started,3,Unavailable
+EVT0002_09,CASE0002,Treatment Completed,2026-10-06 16:35:00,Treatment Room,DOC005,PAT0002,0-12,Completed,Treatment Completed,3,Unavailable
+EVT0002_10,CASE0002,Inpatient Bed Requested,2026-10-06 17:51:00,Bed Management,,PAT0002,0-12,Pending,Inpatient Bed Requested,3,Unavailable
+EVT0002_11,CASE0002,Transfer Completed,2026-10-06 18:22:00,Inpatient Ward,,PAT0002,0-12,Completed,Transferred to Inpatient Ward,3,Unavailable
+EVT0003_01,CASE0003,Walk-in Registered,2026-10-04 12:56:00,Front Desk,,PAT0003,13-20,Completed,Registered,2,Not Applicable
+EVT0003_02,CASE0003,Triage Started,2026-10-04 13:34:00,Triage,,PAT0003,13-20,Completed,Triage Started,2,Not Applicable
+EVT0003_03,CASE0003,Triage Completed,2026-10-04 14:10:00,Triage,,PAT0003,13-20,Completed,Triage Completed,2,Not Applicable
+EVT0003_04,CASE0003,Assigned to Waiting Area,2026-10-04 14:33:00,Emergency,,PAT0003,13-20,Completed,Waiting Area Assigned,2,Not Applicable
+EVT0003_05,CASE0003,First Physician Contact,2026-10-04 14:56:00,Emergency,DOC003,PAT0003,13-20,Completed,Physician Assessment Started,2,Not Applicable
+EVT0003_06,CASE0003,Lab Order Placed,2026-10-04 15:33:00,Emergency,,PAT0003,13-20,Completed,Lab Order Created,2,Not Applicable
+EVT0003_07,CASE0003,Lab Results Returned,2026-10-04 15:47:00,Laboratory,,PAT0003,13-20,Completed,Lab Results Available,2,Not Applicable
+EVT0003_08,CASE0003,Imaging Order Placed,2026-10-04 16:57:00,Emergency,,PAT0003,13-20,Completed,Imaging Order Created,2,Not Applicable
+EVT0003_09,CASE0003,Imaging Results Returned,2026-10-04 17:22:00,Radiology,,PAT0003,13-20,Completed,Imaging Results Available,2,Not Applicable
+EVT0003_10,CASE0003,Treatment Started,2026-10-04 18:27:00,Treatment Room,DOC004,PAT0003,13-20,Completed,Treatment Started,2,Not Applicable
+EVT0003_11,CASE0003,Treatment Completed,2026-10-04 18:50:00,Treatment Room,DOC007,PAT0003,13-20,Completed,Treatment Completed,2,Not Applicable
+EVT0003_12,CASE0003,Discharge Order Placed,2026-10-04 19:42:00,Emergency,,PAT0003,13-20,Completed,Discharge Approved,2,Not Applicable
+EVT0003_13,CASE0003,Physical Exit,2026-10-04 20:00:00,Exit,,PAT0003,13-20,Completed,Patient Exited,2,Not Applicable
+EVT0004_01,CASE0004,Walk-in Registered,2026-10-06 14:50:00,Front Desk,,PAT0004,0-12,Completed,Registered,2,Not Applicable
+EVT0004_02,CASE0004,Triage Started,2026-10-06 15:06:00,Triage,,PAT0004,0-12,Completed,Triage Started,2,Not Applicable
+EVT0004_03,CASE0004,Triage Completed,2026-10-06 15:44:00,Triage,,PAT0004,0-12,Completed,Triage Completed,2,Not Applicable
+EVT0004_04,CASE0004,Assigned to Waiting Area,2026-10-06 16:05:00,Emergency,,PAT0004,0-12,Completed,Waiting Area Assigned,2,Not Applicable
+EVT0004_05,CASE0004,First Physician Contact,2026-10-06 16:32:00,Emergency,DOC008,PAT0004,0-12,Completed,Physician Assessment Started,2,Not Applicable
+EVT0004_06,CASE0004,Lab Order Placed,2026-10-06 17:03:00,Emergency,,PAT0004,0-12,Completed,Lab Order Created,2,Not Applicable
+EVT0004_07,CASE0004,Lab Results Returned,2026-10-06 17:15:00,Laboratory,,PAT0004,0-12,Completed,Lab Results Available,2,Not Applicable
+EVT0004_08,CASE0004,Treatment Started,2026-10-06 18:13:00,Treatment Room,DOC005,PAT0004,0-12,Completed,Treatment Started,2,Not Applicable
+EVT0004_09,CASE0004,Treatment Completed,2026-10-06 18:54:00,Treatment Room,DOC007,PAT0004,0-12,Completed,Treatment Completed,2,Not Applicable
+EVT0004_10,CASE0004,Discharge Order Placed,2026-10-06 19:47:00,Emergency,,PAT0004,0-12,Completed,Discharge Approved,2,Not Applicable
+EVT0004_11,CASE0004,Physical Exit,2026-10-06 19:59:00,Exit,,PAT0004,0-12,Completed,Patient Exited,2,Not Applicable
+EVT0005_01,CASE0005,Ambulance Arrived,2026-10-11 10:43:00,Emergency,,PAT0005,0-12,Completed,Ambulance Arrival Recorded,5,Available
+EVT0005_02,CASE0005,Triage Started,2026-10-11 11:17:00,Triage,,PAT0005,0-12,Completed,Triage Started,5,Available
+EVT0005_03,CASE0005,Triage Completed,2026-10-11 11:47:00,Triage,,PAT0005,0-12,Completed,Triage Completed,5,Available
+EVT0005_04,CASE0005,Assigned to ER Bed,2026-10-11 12:10:00,Emergency,,PAT0005,0-12,Completed,ER Bed Assigned,5,Available
+EVT0005_05,CASE0005,First Physician Contact,2026-10-11 12:45:00,Emergency,DOC005,PAT0005,0-12,Completed,Physician Assessment Started,5,Available
+EVT0005_06,CASE0005,Lab Order Placed,2026-10-11 13:31:00,Emergency,,PAT0005,0-12,Completed,Lab Order Created,5,Available
+EVT0005_07,CASE0005,Lab Results Returned,2026-10-11 13:58:00,Laboratory,,PAT0005,0-12,Completed,Lab Results Available,5,Available
+EVT0005_08,CASE0005,Treatment Started,2026-10-11 14:46:00,Treatment Room,DOC005,PAT0005,0-12,Completed,Treatment Started,5,Available
+EVT0005_09,CASE0005,Treatment Completed,2026-10-11 15:28:00,Treatment Room,DOC002,PAT0005,0-12,Completed,Treatment Completed,5,Available
+EVT0005_10,CASE0005,Inpatient Bed Requested,2026-10-11 16:13:00,Bed Management,,PAT0005,0-12,Completed,Inpatient Bed Requested,5,Available
+EVT0005_11,CASE0005,Transfer Completed,2026-10-11 16:28:00,Inpatient Ward,,PAT0005,0-12,Completed,Transferred to Inpatient Ward,5,Available
+EVT0006_01,CASE0006,Walk-in Registered,2026-10-09 09:48:00,Front Desk,,PAT0006,21-40,Completed,Registered,5,Not Applicable
+EVT0006_02,CASE0006,Triage Started,2026-10-09 10:28:00,Triage,,PAT0006,21-40,Completed,Triage Started,5,Not Applicable
+EVT0006_03,CASE0006,Triage Completed,2026-10-09 10:57:00,Triage,,PAT0006,21-40,Completed,Triage Completed,5,Not Applicable
+EVT0006_04,CASE0006,Assigned to Waiting Area,2026-10-09 11:14:00,Emergency,,PAT0006,21-40,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0006_05,CASE0006,First Physician Contact,2026-10-09 11:47:00,Emergency,DOC001,PAT0006,21-40,Completed,Physician Assessment Started,5,Not Applicable
+EVT0006_06,CASE0006,Imaging Order Placed,2026-10-09 12:26:00,Emergency,,PAT0006,21-40,Completed,Imaging Order Created,5,Not Applicable
+EVT0006_07,CASE0006,Imaging Results Returned,2026-10-09 12:49:00,Radiology,,PAT0006,21-40,Completed,Paperwork Missing - Rework Required,5,Not Applicable
+EVT0006_08,CASE0006,Triage Started,2026-10-09 13:13:00,Triage,,PAT0006,21-40,Completed,Triage Repeated After Paperwork Issue,5,Not Applicable
+EVT0006_09,CASE0006,Triage Completed,2026-10-09 13:51:00,Triage,,PAT0006,21-40,Completed,Reassessment Completed,5,Not Applicable
+EVT0006_10,CASE0006,First Physician Contact,2026-10-09 14:32:00,Emergency,DOC004,PAT0006,21-40,Completed,Repeat Physician Review,5,Not Applicable
+EVT0006_11,CASE0006,Treatment Started,2026-10-09 15:16:00,Treatment Room,DOC002,PAT0006,21-40,Completed,Treatment Started,5,Not Applicable
+EVT0006_12,CASE0006,Treatment Completed,2026-10-09 15:37:00,Treatment Room,DOC002,PAT0006,21-40,Completed,Treatment Completed,5,Not Applicable
+EVT0006_13,CASE0006,Discharge Order Placed,2026-10-09 16:47:00,Emergency,,PAT0006,21-40,Completed,Discharge Approved,5,Not Applicable
+EVT0006_14,CASE0006,Physical Exit,2026-10-09 17:22:00,Exit,,PAT0006,21-40,Completed,Patient Exited,5,Not Applicable
+EVT0007_01,CASE0007,Walk-in Registered,2026-10-09 18:21:00,Front Desk,,PAT0007,41-60,Completed,Registered,3,Not Applicable
+EVT0007_02,CASE0007,Triage Started,2026-10-09 19:07:00,Triage,,PAT0007,41-60,Completed,Triage Started,3,Not Applicable
+EVT0007_03,CASE0007,Triage Completed,2026-10-09 19:45:00,Triage,,PAT0007,41-60,Completed,Triage Completed,3,Not Applicable
+EVT0007_04,CASE0007,Assigned to Waiting Area,2026-10-09 20:20:00,Emergency,,PAT0007,41-60,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0007_05,CASE0007,First Physician Contact,2026-10-09 20:41:00,Emergency,DOC008,PAT0007,41-60,Completed,Physician Assessment Started,3,Not Applicable
+EVT0007_06,CASE0007,Imaging Order Placed,2026-10-09 21:35:00,Emergency,,PAT0007,41-60,Completed,Imaging Order Created,3,Not Applicable
+EVT0007_07,CASE0007,Imaging Results Returned,2026-10-09 21:47:00,Radiology,,PAT0007,41-60,Completed,Paperwork Missing - Rework Required,3,Not Applicable
+EVT0007_08,CASE0007,Triage Started,2026-10-09 22:29:00,Triage,,PAT0007,41-60,Completed,Triage Repeated After Paperwork Issue,3,Not Applicable
+EVT0007_09,CASE0007,Triage Completed,2026-10-09 22:47:00,Triage,,PAT0007,41-60,Completed,Reassessment Completed,3,Not Applicable
+EVT0007_10,CASE0007,First Physician Contact,2026-10-09 23:35:00,Emergency,DOC004,PAT0007,41-60,Completed,Repeat Physician Review,3,Not Applicable
+EVT0007_11,CASE0007,Treatment Started,2026-10-09 23:57:00,Treatment Room,DOC001,PAT0007,41-60,Completed,Treatment Started,3,Not Applicable
+EVT0007_12,CASE0007,Treatment Completed,2026-10-10 00:15:00,Treatment Room,DOC001,PAT0007,41-60,Completed,Treatment Completed,3,Not Applicable
+EVT0007_13,CASE0007,Discharge Order Placed,2026-10-10 01:01:00,Emergency,,PAT0007,41-60,Completed,Discharge Approved,3,Not Applicable
+EVT0007_14,CASE0007,Physical Exit,2026-10-10 01:12:00,Exit,,PAT0007,41-60,Completed,Patient Exited,3,Not Applicable
+EVT0008_01,CASE0008,Walk-in Registered,2026-10-03 17:44:00,Front Desk,,PAT0008,21-40,Completed,Registered,3,Not Applicable
+EVT0008_02,CASE0008,Triage Started,2026-10-03 18:08:00,Triage,,PAT0008,21-40,Completed,Triage Started,3,Not Applicable
+EVT0008_03,CASE0008,Triage Completed,2026-10-03 18:44:00,Triage,,PAT0008,21-40,Completed,Triage Completed,3,Not Applicable
+EVT0008_04,CASE0008,Assigned to Waiting Area,2026-10-03 19:06:00,Emergency,,PAT0008,21-40,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0008_05,CASE0008,First Physician Contact,2026-10-03 19:16:00,Emergency,DOC006,PAT0008,21-40,Completed,Physician Assessment Started,3,Not Applicable
+EVT0008_06,CASE0008,Lab Order Placed,2026-10-03 19:57:00,Emergency,,PAT0008,21-40,Completed,Lab Order Created,3,Not Applicable
+EVT0008_07,CASE0008,Lab Results Returned,2026-10-03 20:20:00,Laboratory,,PAT0008,21-40,Completed,Lab Results Available,3,Not Applicable
+EVT0008_08,CASE0008,Imaging Order Placed,2026-10-03 21:04:00,Emergency,,PAT0008,21-40,Completed,Imaging Order Created,3,Not Applicable
+EVT0008_09,CASE0008,Imaging Results Returned,2026-10-03 21:11:00,Radiology,,PAT0008,21-40,Completed,Imaging Results Available,3,Not Applicable
+EVT0008_10,CASE0008,Treatment Started,2026-10-03 22:19:00,Treatment Room,DOC002,PAT0008,21-40,Completed,Treatment Started,3,Not Applicable
+EVT0008_11,CASE0008,Treatment Completed,2026-10-03 22:41:00,Treatment Room,DOC004,PAT0008,21-40,Completed,Treatment Completed,3,Not Applicable
+EVT0008_12,CASE0008,Discharge Order Placed,2026-10-03 23:25:00,Emergency,,PAT0008,21-40,Completed,Discharge Approved,3,Not Applicable
+EVT0008_13,CASE0008,Physical Exit,2026-10-03 23:39:00,Exit,,PAT0008,21-40,Completed,Patient Exited,3,Not Applicable
+EVT0009_01,CASE0009,Walk-in Registered,2026-10-02 15:33:00,Front Desk,,PAT0009,21-40,Completed,Registered,5,Not Applicable
+EVT0009_02,CASE0009,Triage Started,2026-10-02 15:45:00,Triage,,PAT0009,21-40,Completed,Triage Started,5,Not Applicable
+EVT0009_03,CASE0009,Triage Completed,2026-10-02 16:15:00,Triage,,PAT0009,21-40,Completed,Triage Completed,5,Not Applicable
+EVT0009_04,CASE0009,Assigned to Waiting Area,2026-10-02 16:27:00,Emergency,,PAT0009,21-40,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0009_05,CASE0009,First Physician Contact,2026-10-02 17:07:00,Emergency,DOC003,PAT0009,21-40,Completed,Physician Assessment Started,5,Not Applicable
+EVT0009_06,CASE0009,Treatment Started,2026-10-02 17:42:00,Treatment Room,DOC008,PAT0009,21-40,Completed,Treatment Started,5,Not Applicable
+EVT0009_07,CASE0009,Treatment Completed,2026-10-02 18:05:00,Treatment Room,DOC001,PAT0009,21-40,Completed,Treatment Completed,5,Not Applicable
+EVT0009_08,CASE0009,Discharge Order Placed,2026-10-02 18:50:00,Emergency,,PAT0009,21-40,Completed,Discharge Approved,5,Not Applicable
+EVT0009_09,CASE0009,Physical Exit,2026-10-02 19:00:00,Exit,,PAT0009,21-40,Completed,Patient Exited,5,Not Applicable
+EVT0010_01,CASE0010,Ambulance Arrived,2026-10-12 17:29:00,Emergency,,PAT0010,41-60,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0010_02,CASE0010,Triage Started,2026-10-12 18:03:00,Triage,,PAT0010,41-60,Completed,Triage Started,4,Not Applicable
+EVT0010_03,CASE0010,Triage Completed,2026-10-12 18:18:00,Triage,,PAT0010,41-60,Completed,Triage Completed,4,Not Applicable
+EVT0010_04,CASE0010,Assigned to ER Bed,2026-10-12 18:40:00,Emergency,,PAT0010,41-60,Completed,ER Bed Assigned,4,Not Applicable
+EVT0010_05,CASE0010,First Physician Contact,2026-10-12 19:23:00,Emergency,DOC001,PAT0010,41-60,Completed,Physician Assessment Started,4,Not Applicable
+EVT0010_06,CASE0010,Imaging Order Placed,2026-10-12 20:02:00,Emergency,,PAT0010,41-60,Completed,Imaging Order Created,4,Not Applicable
+EVT0010_07,CASE0010,Imaging Results Returned,2026-10-12 20:11:00,Radiology,,PAT0010,41-60,Completed,Imaging Results Available,4,Not Applicable
+EVT0010_08,CASE0010,Treatment Started,2026-10-12 20:52:00,Treatment Room,DOC003,PAT0010,41-60,Completed,Treatment Started,4,Not Applicable
+EVT0010_09,CASE0010,Treatment Completed,2026-10-12 21:10:00,Treatment Room,DOC002,PAT0010,41-60,Completed,Treatment Completed,4,Not Applicable
+EVT0010_10,CASE0010,Discharge Order Placed,2026-10-12 22:24:00,Emergency,,PAT0010,41-60,Completed,Discharge Approved,4,Not Applicable
+EVT0010_11,CASE0010,Physical Exit,2026-10-12 22:34:00,Exit,,PAT0010,41-60,Completed,Patient Exited,4,Not Applicable
+EVT0011_01,CASE0011,Ambulance Arrived,2026-10-10 12:12:00,Emergency,,PAT0011,13-20,Completed,Ambulance Arrival Recorded,5,Not Applicable
+EVT0011_02,CASE0011,Triage Started,2026-10-10 12:42:00,Triage,,PAT0011,13-20,Completed,Triage Started,5,Not Applicable
+EVT0011_03,CASE0011,Triage Completed,2026-10-10 13:09:00,Triage,,PAT0011,13-20,Completed,Triage Completed,5,Not Applicable
+EVT0011_04,CASE0011,Assigned to ER Bed,2026-10-10 13:33:00,Emergency,,PAT0011,13-20,Completed,ER Bed Assigned,5,Not Applicable
+EVT0011_05,CASE0011,First Physician Contact,2026-10-10 14:11:00,Emergency,DOC005,PAT0011,13-20,Completed,Physician Assessment Started,5,Not Applicable
+EVT0011_06,CASE0011,Imaging Order Placed,2026-10-10 14:42:00,Emergency,,PAT0011,13-20,Completed,Imaging Order Created,5,Not Applicable
+EVT0011_07,CASE0011,Imaging Results Returned,2026-10-10 14:57:00,Radiology,,PAT0011,13-20,Completed,Imaging Results Available,5,Not Applicable
+EVT0011_08,CASE0011,Treatment Started,2026-10-10 15:45:00,Treatment Room,DOC005,PAT0011,13-20,Completed,Treatment Started,5,Not Applicable
+EVT0011_09,CASE0011,Treatment Completed,2026-10-10 16:11:00,Treatment Room,DOC002,PAT0011,13-20,Completed,Treatment Completed,5,Not Applicable
+EVT0011_10,CASE0011,Discharge Order Placed,2026-10-10 16:46:00,Emergency,,PAT0011,13-20,Completed,Discharge Approved,5,Not Applicable
+EVT0011_11,CASE0011,Physical Exit,2026-10-10 17:15:00,Exit,,PAT0011,13-20,Completed,Patient Exited,5,Not Applicable
+EVT0012_01,CASE0012,Walk-in Registered,2026-10-03 13:57:00,Front Desk,,PAT0012,0-12,Completed,Registered,4,Not Applicable
+EVT0012_02,CASE0012,Triage Started,2026-10-03 14:36:00,Triage,,PAT0012,0-12,Completed,Triage Started,4,Not Applicable
+EVT0012_03,CASE0012,Triage Completed,2026-10-03 14:56:00,Triage,,PAT0012,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0012_04,CASE0012,Assigned to Waiting Area,2026-10-03 15:15:00,Emergency,,PAT0012,0-12,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0012_05,CASE0012,First Physician Contact,2026-10-03 15:51:00,Emergency,DOC001,PAT0012,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0012_06,CASE0012,Treatment Started,2026-10-03 16:36:00,Treatment Room,DOC005,PAT0012,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0012_07,CASE0012,Treatment Completed,2026-10-03 17:23:00,Treatment Room,DOC003,PAT0012,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0012_08,CASE0012,Discharge Order Placed,2026-10-03 17:52:00,Emergency,,PAT0012,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0012_09,CASE0012,Physical Exit,2026-10-03 18:27:00,Exit,,PAT0012,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0013_01,CASE0013,Walk-in Registered,2026-10-04 13:51:00,Front Desk,,PAT0013,61+,Completed,Registered,3,Not Applicable
+EVT0013_02,CASE0013,Triage Started,2026-10-04 14:25:00,Triage,,PAT0013,61+,Completed,Triage Started,3,Not Applicable
+EVT0013_03,CASE0013,Triage Completed,2026-10-04 15:05:00,Triage,,PAT0013,61+,Completed,Triage Completed,3,Not Applicable
+EVT0013_04,CASE0013,Assigned to Waiting Area,2026-10-04 15:35:00,Emergency,,PAT0013,61+,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0013_05,CASE0013,First Physician Contact,2026-10-04 15:53:00,Emergency,DOC002,PAT0013,61+,Completed,Physician Assessment Started,3,Not Applicable
+EVT0013_06,CASE0013,Lab Order Placed,2026-10-04 16:29:00,Emergency,,PAT0013,61+,Completed,Lab Order Created,3,Not Applicable
+EVT0013_07,CASE0013,Lab Results Returned,2026-10-04 17:04:00,Laboratory,,PAT0013,61+,Completed,Lab Results Available,3,Not Applicable
+EVT0013_08,CASE0013,Treatment Started,2026-10-04 17:42:00,Treatment Room,DOC006,PAT0013,61+,Completed,Treatment Started,3,Not Applicable
+EVT0013_09,CASE0013,Treatment Completed,2026-10-04 18:16:00,Treatment Room,DOC005,PAT0013,61+,Completed,Treatment Completed,3,Not Applicable
+EVT0013_10,CASE0013,Discharge Order Placed,2026-10-04 18:44:00,Emergency,,PAT0013,61+,Completed,Discharge Approved,3,Not Applicable
+EVT0013_11,CASE0013,Physical Exit,2026-10-04 19:11:00,Exit,,PAT0013,61+,Completed,Patient Exited,3,Not Applicable
+EVT0014_01,CASE0014,Walk-in Registered,2026-10-12 10:32:00,Front Desk,,PAT0014,61+,Completed,Registered,2,Not Applicable
+EVT0014_02,CASE0014,Triage Started,2026-10-12 11:08:00,Triage,,PAT0014,61+,Completed,Triage Started,2,Not Applicable
+EVT0014_03,CASE0014,Triage Completed,2026-10-12 11:36:00,Triage,,PAT0014,61+,Completed,Triage Completed,2,Not Applicable
+EVT0014_04,CASE0014,Assigned to Waiting Area,2026-10-12 12:01:00,Emergency,,PAT0014,61+,Completed,Waiting Area Assigned,2,Not Applicable
+EVT0014_05,CASE0014,First Physician Contact,2026-10-12 12:10:00,Emergency,DOC006,PAT0014,61+,Completed,Physician Assessment Started,2,Not Applicable
+EVT0014_06,CASE0014,Lab Order Placed,2026-10-12 13:02:00,Emergency,,PAT0014,61+,Completed,Lab Order Created,2,Not Applicable
+EVT0014_07,CASE0014,Lab Results Returned,2026-10-12 13:36:00,Laboratory,,PAT0014,61+,Completed,Lab Results Available,2,Not Applicable
+EVT0014_08,CASE0014,Treatment Started,2026-10-12 14:24:00,Treatment Room,DOC004,PAT0014,61+,Completed,Treatment Started,2,Not Applicable
+EVT0014_09,CASE0014,Treatment Completed,2026-10-12 15:05:00,Treatment Room,DOC006,PAT0014,61+,Completed,Treatment Completed,2,Not Applicable
+EVT0014_10,CASE0014,Discharge Order Placed,2026-10-12 15:50:00,Emergency,,PAT0014,61+,Completed,Discharge Approved,2,Not Applicable
+EVT0014_11,CASE0014,Physical Exit,2026-10-12 16:29:00,Exit,,PAT0014,61+,Completed,Patient Exited,2,Not Applicable
+EVT0015_01,CASE0015,Ambulance Arrived,2026-10-14 10:46:00,Emergency,,PAT0015,61+,Completed,Ambulance Arrival Recorded,5,Available
+EVT0015_02,CASE0015,Triage Started,2026-10-14 11:24:00,Triage,,PAT0015,61+,Completed,Triage Started,5,Available
+EVT0015_03,CASE0015,Triage Completed,2026-10-14 12:01:00,Triage,,PAT0015,61+,Completed,Triage Completed,5,Available
+EVT0015_04,CASE0015,Assigned to ER Bed,2026-10-14 12:17:00,Emergency,,PAT0015,61+,Completed,ER Bed Assigned,5,Available
+EVT0015_05,CASE0015,First Physician Contact,2026-10-14 12:52:00,Emergency,DOC007,PAT0015,61+,Completed,Physician Assessment Started,5,Available
+EVT0015_06,CASE0015,Lab Order Placed,2026-10-14 13:42:00,Emergency,,PAT0015,61+,Completed,Lab Order Created,5,Available
+EVT0015_07,CASE0015,Lab Results Returned,2026-10-14 13:57:00,Laboratory,,PAT0015,61+,Completed,Lab Results Available,5,Available
+EVT0015_08,CASE0015,Treatment Started,2026-10-14 14:52:00,Treatment Room,DOC007,PAT0015,61+,Completed,Treatment Started,5,Available
+EVT0015_09,CASE0015,Treatment Completed,2026-10-14 15:30:00,Treatment Room,DOC008,PAT0015,61+,Completed,Treatment Completed,5,Available
+EVT0015_10,CASE0015,Inpatient Bed Requested,2026-10-14 15:54:00,Bed Management,,PAT0015,61+,Completed,Inpatient Bed Requested,5,Available
+EVT0015_11,CASE0015,Transfer Completed,2026-10-14 16:28:00,Inpatient Ward,,PAT0015,61+,Completed,Transferred to Inpatient Ward,5,Available
+EVT0016_01,CASE0016,Walk-in Registered,2026-10-04 08:24:00,Front Desk,,PAT0016,21-40,Completed,Registered,5,Not Applicable
+EVT0016_02,CASE0016,Triage Started,2026-10-04 08:49:00,Triage,,PAT0016,21-40,Completed,Triage Started,5,Not Applicable
+EVT0016_03,CASE0016,Triage Completed,2026-10-04 09:07:00,Triage,,PAT0016,21-40,Completed,Triage Completed,5,Not Applicable
+EVT0016_04,CASE0016,Assigned to Waiting Area,2026-10-04 09:48:00,Emergency,,PAT0016,21-40,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0016_05,CASE0016,First Physician Contact,2026-10-04 10:09:00,Emergency,DOC007,PAT0016,21-40,Completed,Physician Assessment Started,5,Not Applicable
+EVT0016_06,CASE0016,Imaging Order Placed,2026-10-04 10:56:00,Emergency,,PAT0016,21-40,Completed,Imaging Order Created,5,Not Applicable
+EVT0016_07,CASE0016,Imaging Results Returned,2026-10-04 11:34:00,Radiology,,PAT0016,21-40,Completed,Paperwork Missing - Rework Required,5,Not Applicable
+EVT0016_08,CASE0016,Triage Started,2026-10-04 11:58:00,Triage,,PAT0016,21-40,Completed,Triage Repeated After Paperwork Issue,5,Not Applicable
+EVT0016_09,CASE0016,Triage Completed,2026-10-04 12:13:00,Triage,,PAT0016,21-40,Completed,Reassessment Completed,5,Not Applicable
+EVT0016_10,CASE0016,First Physician Contact,2026-10-04 12:48:00,Emergency,DOC007,PAT0016,21-40,Completed,Repeat Physician Review,5,Not Applicable
+EVT0016_11,CASE0016,Treatment Started,2026-10-04 13:17:00,Treatment Room,DOC007,PAT0016,21-40,Completed,Treatment Started,5,Not Applicable
+EVT0016_12,CASE0016,Treatment Completed,2026-10-04 13:51:00,Treatment Room,DOC002,PAT0016,21-40,Completed,Treatment Completed,5,Not Applicable
+EVT0016_13,CASE0016,Discharge Order Placed,2026-10-04 14:50:00,Emergency,,PAT0016,21-40,Completed,Discharge Approved,5,Not Applicable
+EVT0016_14,CASE0016,Physical Exit,2026-10-04 15:07:00,Exit,,PAT0016,21-40,Completed,Patient Exited,5,Not Applicable
+EVT0017_01,CASE0017,Walk-in Registered,2026-10-09 19:43:00,Front Desk,,PAT0017,41-60,Completed,Registered,5,Not Applicable
+EVT0017_02,CASE0017,Triage Started,2026-10-09 20:07:00,Triage,,PAT0017,41-60,Completed,Triage Started,5,Not Applicable
+EVT0017_03,CASE0017,Triage Completed,2026-10-09 20:20:00,Triage,,PAT0017,41-60,Completed,Triage Completed,5,Not Applicable
+EVT0017_04,CASE0017,Assigned to Waiting Area,2026-10-09 20:54:00,Emergency,,PAT0017,41-60,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0017_05,CASE0017,First Physician Contact,2026-10-09 21:24:00,Emergency,DOC005,PAT0017,41-60,Completed,Physician Assessment Started,5,Not Applicable
+EVT0017_06,CASE0017,Lab Order Placed,2026-10-09 21:58:00,Emergency,,PAT0017,41-60,Completed,Lab Order Created,5,Not Applicable
+EVT0017_07,CASE0017,Lab Results Returned,2026-10-09 22:27:00,Laboratory,,PAT0017,41-60,Completed,Lab Results Available,5,Not Applicable
+EVT0017_08,CASE0017,Treatment Started,2026-10-09 23:23:00,Treatment Room,DOC005,PAT0017,41-60,Completed,Treatment Started,5,Not Applicable
+EVT0017_09,CASE0017,Treatment Completed,2026-10-09 23:56:00,Treatment Room,DOC004,PAT0017,41-60,Completed,Treatment Completed,5,Not Applicable
+EVT0017_10,CASE0017,Discharge Order Placed,2026-10-10 00:32:00,Emergency,,PAT0017,41-60,Completed,Discharge Approved,5,Not Applicable
+EVT0017_11,CASE0017,Physical Exit,2026-10-10 01:03:00,Exit,,PAT0017,41-60,Completed,Patient Exited,5,Not Applicable
+EVT0018_01,CASE0018,Walk-in Registered,2026-10-09 08:00:00,Front Desk,,PAT0018,13-20,Completed,Registered,4,Not Applicable
+EVT0018_02,CASE0018,Triage Started,2026-10-09 08:23:00,Triage,,PAT0018,13-20,Completed,Triage Started,4,Not Applicable
+EVT0018_03,CASE0018,Triage Completed,2026-10-09 08:45:00,Triage,,PAT0018,13-20,Completed,Triage Completed,4,Not Applicable
+EVT0018_04,CASE0018,Assigned to Waiting Area,2026-10-09 09:14:00,Emergency,,PAT0018,13-20,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0018_05,CASE0018,First Physician Contact,2026-10-09 09:38:00,Emergency,DOC008,PAT0018,13-20,Completed,Physician Assessment Started,4,Not Applicable
+EVT0018_06,CASE0018,Lab Order Placed,2026-10-09 10:24:00,Emergency,,PAT0018,13-20,Completed,Lab Order Created,4,Not Applicable
+EVT0018_07,CASE0018,Lab Results Returned,2026-10-09 10:52:00,Laboratory,,PAT0018,13-20,Completed,Lab Results Available,4,Not Applicable
+EVT0018_08,CASE0018,Imaging Order Placed,2026-10-09 11:26:00,Emergency,,PAT0018,13-20,Completed,Imaging Order Created,4,Not Applicable
+EVT0018_09,CASE0018,Imaging Results Returned,2026-10-09 11:36:00,Radiology,,PAT0018,13-20,Completed,Imaging Results Available,4,Not Applicable
+EVT0018_10,CASE0018,Treatment Started,2026-10-09 12:32:00,Treatment Room,DOC004,PAT0018,13-20,Completed,Treatment Started,4,Not Applicable
+EVT0018_11,CASE0018,Treatment Completed,2026-10-09 13:11:00,Treatment Room,DOC003,PAT0018,13-20,Completed,Treatment Completed,4,Not Applicable
+EVT0018_12,CASE0018,Discharge Order Placed,2026-10-09 13:38:00,Emergency,,PAT0018,13-20,Completed,Discharge Approved,4,Not Applicable
+EVT0018_13,CASE0018,Physical Exit,2026-10-09 13:52:00,Exit,,PAT0018,13-20,Completed,Patient Exited,4,Not Applicable
+EVT0019_01,CASE0019,Walk-in Registered,2026-10-10 11:19:00,Front Desk,,PAT0019,0-12,Completed,Registered,5,Not Applicable
+EVT0019_02,CASE0019,Triage Started,2026-10-10 11:50:00,Triage,,PAT0019,0-12,Completed,Triage Started,5,Not Applicable
+EVT0019_03,CASE0019,Triage Completed,2026-10-10 12:08:00,Triage,,PAT0019,0-12,Completed,Triage Completed,5,Not Applicable
+EVT0019_04,CASE0019,Assigned to Waiting Area,2026-10-10 12:40:00,Emergency,,PAT0019,0-12,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0019_05,CASE0019,First Physician Contact,2026-10-10 12:52:00,Emergency,DOC007,PAT0019,0-12,Completed,Physician Assessment Started,5,Not Applicable
+EVT0019_06,CASE0019,Treatment Started,2026-10-10 13:17:00,Treatment Room,DOC008,PAT0019,0-12,Completed,Treatment Started,5,Not Applicable
+EVT0019_07,CASE0019,Treatment Completed,2026-10-10 13:30:00,Treatment Room,DOC004,PAT0019,0-12,Completed,Treatment Completed,5,Not Applicable
+EVT0019_08,CASE0019,Discharge Order Placed,2026-10-10 14:49:00,Emergency,,PAT0019,0-12,Completed,Discharge Approved,5,Not Applicable
+EVT0019_09,CASE0019,Physical Exit,2026-10-10 15:10:00,Exit,,PAT0019,0-12,Completed,Patient Exited,5,Not Applicable
+EVT0020_01,CASE0020,Walk-in Registered,2026-10-10 13:24:00,Front Desk,,PAT0020,41-60,Completed,Registered,5,Not Applicable
+EVT0020_02,CASE0020,Triage Started,2026-10-10 14:00:00,Triage,,PAT0020,41-60,Completed,Triage Started,5,Not Applicable
+EVT0020_03,CASE0020,Triage Completed,2026-10-10 14:41:00,Triage,,PAT0020,41-60,Completed,Triage Completed,5,Not Applicable
+EVT0020_04,CASE0020,Assigned to Waiting Area,2026-10-10 15:23:00,Emergency,,PAT0020,41-60,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0020_05,CASE0020,First Physician Contact,2026-10-10 15:48:00,Emergency,DOC008,PAT0020,41-60,Completed,Physician Assessment Started,5,Not Applicable
+EVT0020_06,CASE0020,Lab Order Placed,2026-10-10 16:22:00,Emergency,,PAT0020,41-60,Completed,Lab Order Created,5,Not Applicable
+EVT0020_07,CASE0020,Lab Results Returned,2026-10-10 16:54:00,Laboratory,,PAT0020,41-60,Completed,Lab Results Available,5,Not Applicable
+EVT0020_08,CASE0020,Imaging Order Placed,2026-10-10 17:55:00,Emergency,,PAT0020,41-60,Completed,Imaging Order Created,5,Not Applicable
+EVT0020_09,CASE0020,Imaging Results Returned,2026-10-10 18:27:00,Radiology,,PAT0020,41-60,Completed,Imaging Results Available,5,Not Applicable
+EVT0020_10,CASE0020,Treatment Started,2026-10-10 19:35:00,Treatment Room,DOC004,PAT0020,41-60,Completed,Treatment Started,5,Not Applicable
+EVT0020_11,CASE0020,Treatment Completed,2026-10-10 20:03:00,Treatment Room,DOC002,PAT0020,41-60,Completed,Treatment Completed,5,Not Applicable
+EVT0020_12,CASE0020,Discharge Order Placed,2026-10-10 21:08:00,Emergency,,PAT0020,41-60,Completed,Discharge Approved,5,Not Applicable
+EVT0020_13,CASE0020,Physical Exit,2026-10-10 21:24:00,Exit,,PAT0020,41-60,Completed,Patient Exited,5,Not Applicable
+EVT0021_01,CASE0021,Walk-in Registered,2026-10-03 11:56:00,Front Desk,,PAT0021,21-40,Completed,Registered,2,Not Applicable
+EVT0021_02,CASE0021,Triage Started,2026-10-03 12:34:00,Triage,,PAT0021,21-40,Completed,Triage Started,2,Not Applicable
+EVT0021_03,CASE0021,Triage Completed,2026-10-03 13:05:00,Triage,,PAT0021,21-40,Completed,Triage Completed,2,Not Applicable
+EVT0021_04,CASE0021,Assigned to Waiting Area,2026-10-03 13:20:00,Emergency,,PAT0021,21-40,Completed,Waiting Area Assigned,2,Not Applicable
+EVT0021_05,CASE0021,First Physician Contact,2026-10-03 13:43:00,Emergency,DOC008,PAT0021,21-40,Completed,Physician Assessment Started,2,Not Applicable
+EVT0021_06,CASE0021,Imaging Order Placed,2026-10-03 14:21:00,Emergency,,PAT0021,21-40,Completed,Imaging Order Created,2,Not Applicable
+EVT0021_07,CASE0021,Imaging Results Returned,2026-10-03 14:33:00,Radiology,,PAT0021,21-40,Completed,Paperwork Missing - Rework Required,2,Not Applicable
+EVT0021_08,CASE0021,Triage Started,2026-10-03 15:31:00,Triage,,PAT0021,21-40,Completed,Triage Repeated After Paperwork Issue,2,Not Applicable
+EVT0021_09,CASE0021,Triage Completed,2026-10-03 16:13:00,Triage,,PAT0021,21-40,Completed,Reassessment Completed,2,Not Applicable
+EVT0021_10,CASE0021,First Physician Contact,2026-10-03 17:10:00,Emergency,DOC008,PAT0021,21-40,Completed,Repeat Physician Review,2,Not Applicable
+EVT0021_11,CASE0021,Treatment Started,2026-10-03 17:37:00,Treatment Room,DOC005,PAT0021,21-40,Completed,Treatment Started,2,Not Applicable
+EVT0021_12,CASE0021,Treatment Completed,2026-10-03 18:16:00,Treatment Room,DOC007,PAT0021,21-40,Completed,Treatment Completed,2,Not Applicable
+EVT0021_13,CASE0021,Discharge Order Placed,2026-10-03 19:12:00,Emergency,,PAT0021,21-40,Completed,Discharge Approved,2,Not Applicable
+EVT0021_14,CASE0021,Physical Exit,2026-10-03 19:48:00,Exit,,PAT0021,21-40,Completed,Patient Exited,2,Not Applicable
+EVT0022_01,CASE0022,Walk-in Registered,2026-10-08 08:29:00,Front Desk,,PAT0022,13-20,Completed,Registered,3,Not Applicable
+EVT0022_02,CASE0022,Triage Started,2026-10-08 08:55:00,Triage,,PAT0022,13-20,Completed,Triage Started,3,Not Applicable
+EVT0022_03,CASE0022,Triage Completed,2026-10-08 09:29:00,Triage,,PAT0022,13-20,Completed,Triage Completed,3,Not Applicable
+EVT0022_04,CASE0022,Assigned to Waiting Area,2026-10-08 10:08:00,Emergency,,PAT0022,13-20,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0022_05,CASE0022,First Physician Contact,2026-10-08 10:42:00,Emergency,DOC003,PAT0022,13-20,Completed,Physician Assessment Started,3,Not Applicable
+EVT0022_06,CASE0022,Treatment Started,2026-10-08 11:30:00,Treatment Room,DOC001,PAT0022,13-20,Completed,Treatment Started,3,Not Applicable
+EVT0022_07,CASE0022,Treatment Completed,2026-10-08 12:17:00,Treatment Room,DOC001,PAT0022,13-20,Completed,Treatment Completed,3,Not Applicable
+EVT0022_08,CASE0022,Discharge Order Placed,2026-10-08 12:59:00,Emergency,,PAT0022,13-20,Completed,Discharge Approved,3,Not Applicable
+EVT0022_09,CASE0022,Physical Exit,2026-10-08 13:13:00,Exit,,PAT0022,13-20,Completed,Patient Exited,3,Not Applicable
+EVT0023_01,CASE0023,Walk-in Registered,2026-10-04 15:45:00,Front Desk,,PAT0023,13-20,Completed,Registered,4,Not Applicable
+EVT0023_02,CASE0023,Triage Started,2026-10-04 16:10:00,Triage,,PAT0023,13-20,Completed,Triage Started,4,Not Applicable
+EVT0023_03,CASE0023,Triage Completed,2026-10-04 16:29:00,Triage,,PAT0023,13-20,Completed,Triage Completed,4,Not Applicable
+EVT0023_04,CASE0023,Assigned to Waiting Area,2026-10-04 16:53:00,Emergency,,PAT0023,13-20,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0023_05,CASE0023,First Physician Contact,2026-10-04 17:08:00,Emergency,DOC001,PAT0023,13-20,Completed,Physician Assessment Started,4,Not Applicable
+EVT0023_06,CASE0023,Lab Order Placed,2026-10-04 18:01:00,Emergency,,PAT0023,13-20,Completed,Lab Order Created,4,Not Applicable
+EVT0023_07,CASE0023,Lab Results Returned,2026-10-04 18:37:00,Laboratory,,PAT0023,13-20,Completed,Lab Results Available,4,Not Applicable
+EVT0023_08,CASE0023,Treatment Started,2026-10-04 19:26:00,Treatment Room,DOC002,PAT0023,13-20,Completed,Treatment Started,4,Not Applicable
+EVT0023_09,CASE0023,Treatment Completed,2026-10-04 20:10:00,Treatment Room,DOC001,PAT0023,13-20,Completed,Treatment Completed,4,Not Applicable
+EVT0023_10,CASE0023,Discharge Order Placed,2026-10-04 20:57:00,Emergency,,PAT0023,13-20,Completed,Discharge Approved,4,Not Applicable
+EVT0023_11,CASE0023,Physical Exit,2026-10-04 21:11:00,Exit,,PAT0023,13-20,Completed,Patient Exited,4,Not Applicable
+EVT0024_01,CASE0024,Walk-in Registered,2026-10-11 09:57:00,Front Desk,,PAT0024,61+,Completed,Registered,3,Not Applicable
+EVT0024_02,CASE0024,Triage Started,2026-10-11 10:24:00,Triage,,PAT0024,61+,Completed,Triage Started,3,Not Applicable
+EVT0024_03,CASE0024,Triage Completed,2026-10-11 10:45:00,Triage,,PAT0024,61+,Completed,Triage Completed,3,Not Applicable
+EVT0024_04,CASE0024,Assigned to Waiting Area,2026-10-11 11:05:00,Emergency,,PAT0024,61+,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0024_05,CASE0024,First Physician Contact,2026-10-11 11:35:00,Emergency,DOC003,PAT0024,61+,Completed,Physician Assessment Started,3,Not Applicable
+EVT0024_06,CASE0024,Lab Order Placed,2026-10-11 12:23:00,Emergency,,PAT0024,61+,Completed,Lab Order Created,3,Not Applicable
+EVT0024_07,CASE0024,Lab Results Returned,2026-10-11 12:34:00,Laboratory,,PAT0024,61+,Completed,Lab Results Available,3,Not Applicable
+EVT0024_08,CASE0024,Treatment Started,2026-10-11 13:31:00,Treatment Room,DOC007,PAT0024,61+,Completed,Treatment Started,3,Not Applicable
+EVT0024_09,CASE0024,Treatment Completed,2026-10-11 13:57:00,Treatment Room,DOC002,PAT0024,61+,Completed,Treatment Completed,3,Not Applicable
+EVT0024_10,CASE0024,Discharge Order Placed,2026-10-11 14:42:00,Emergency,,PAT0024,61+,Completed,Discharge Approved,3,Not Applicable
+EVT0024_11,CASE0024,Physical Exit,2026-10-11 14:53:00,Exit,,PAT0024,61+,Completed,Patient Exited,3,Not Applicable
+EVT0025_01,CASE0025,Walk-in Registered,2026-10-02 17:39:00,Front Desk,,PAT0025,21-40,Completed,Registered,4,Not Applicable
+EVT0025_02,CASE0025,Triage Started,2026-10-02 18:00:00,Triage,,PAT0025,21-40,Completed,Triage Started,4,Not Applicable
+EVT0025_03,CASE0025,Triage Completed,2026-10-02 18:25:00,Triage,,PAT0025,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0025_04,CASE0025,Assigned to Waiting Area,2026-10-02 18:42:00,Emergency,,PAT0025,21-40,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0025_05,CASE0025,First Physician Contact,2026-10-02 19:13:00,Emergency,DOC001,PAT0025,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0025_06,CASE0025,Imaging Order Placed,2026-10-02 20:05:00,Emergency,,PAT0025,21-40,Completed,Imaging Order Created,4,Not Applicable
+EVT0025_07,CASE0025,Imaging Results Returned,2026-10-02 20:40:00,Radiology,,PAT0025,21-40,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0025_08,CASE0025,Triage Started,2026-10-02 21:34:00,Triage,,PAT0025,21-40,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0025_09,CASE0025,Triage Completed,2026-10-02 22:15:00,Triage,,PAT0025,21-40,Completed,Reassessment Completed,4,Not Applicable
+EVT0025_10,CASE0025,First Physician Contact,2026-10-02 23:10:00,Emergency,DOC003,PAT0025,21-40,Completed,Repeat Physician Review,4,Not Applicable
+EVT0025_11,CASE0025,Treatment Started,2026-10-02 23:52:00,Treatment Room,DOC005,PAT0025,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0025_12,CASE0025,Treatment Completed,2026-10-03 00:23:00,Treatment Room,DOC008,PAT0025,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0025_13,CASE0025,Discharge Order Placed,2026-10-03 01:26:00,Emergency,,PAT0025,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0025_14,CASE0025,Physical Exit,2026-10-03 02:02:00,Exit,,PAT0025,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0026_01,CASE0026,Ambulance Arrived,2026-10-02 12:45:00,Emergency,,PAT0026,21-40,Completed,Ambulance Arrival Recorded,3,Not Applicable
+EVT0026_02,CASE0026,Triage Started,2026-10-02 13:02:00,Triage,,PAT0026,21-40,Completed,Triage Started,3,Not Applicable
+EVT0026_03,CASE0026,Triage Completed,2026-10-02 13:31:00,Triage,,PAT0026,21-40,Completed,Triage Completed,3,Not Applicable
+EVT0026_04,CASE0026,Assigned to ER Bed,2026-10-02 13:57:00,Emergency,,PAT0026,21-40,Completed,ER Bed Assigned,3,Not Applicable
+EVT0026_05,CASE0026,First Physician Contact,2026-10-02 14:22:00,Emergency,DOC003,PAT0026,21-40,Completed,Physician Assessment Started,3,Not Applicable
+EVT0026_06,CASE0026,Imaging Order Placed,2026-10-02 15:02:00,Emergency,,PAT0026,21-40,Completed,Imaging Order Created,3,Not Applicable
+EVT0026_07,CASE0026,Imaging Results Returned,2026-10-02 15:20:00,Radiology,,PAT0026,21-40,Completed,Imaging Results Available,3,Not Applicable
+EVT0026_08,CASE0026,Treatment Started,2026-10-02 16:06:00,Treatment Room,DOC005,PAT0026,21-40,Completed,Treatment Started,3,Not Applicable
+EVT0026_09,CASE0026,Treatment Completed,2026-10-02 16:37:00,Treatment Room,DOC004,PAT0026,21-40,Completed,Treatment Completed,3,Not Applicable
+EVT0026_10,CASE0026,Discharge Order Placed,2026-10-02 16:54:00,Emergency,,PAT0026,21-40,Completed,Discharge Approved,3,Not Applicable
+EVT0026_11,CASE0026,Physical Exit,2026-10-02 17:25:00,Exit,,PAT0026,21-40,Completed,Patient Exited,3,Not Applicable
+EVT0027_01,CASE0027,Ambulance Arrived,2026-10-12 16:22:00,Emergency,,PAT0027,61+,Completed,Ambulance Arrival Recorded,4,Delayed
+EVT0027_02,CASE0027,Triage Started,2026-10-12 16:57:00,Triage,,PAT0027,61+,Completed,Triage Started,4,Delayed
+EVT0027_03,CASE0027,Triage Completed,2026-10-12 17:07:00,Triage,,PAT0027,61+,Completed,Triage Completed,4,Delayed
+EVT0027_04,CASE0027,Assigned to ER Bed,2026-10-12 17:28:00,Emergency,,PAT0027,61+,Completed,ER Bed Assigned,4,Delayed
+EVT0027_05,CASE0027,First Physician Contact,2026-10-12 18:06:00,Emergency,DOC005,PAT0027,61+,Completed,Physician Assessment Started,4,Delayed
+EVT0027_06,CASE0027,Lab Order Placed,2026-10-12 18:49:00,Emergency,,PAT0027,61+,Completed,Lab Order Created,4,Delayed
+EVT0027_07,CASE0027,Lab Results Returned,2026-10-12 19:12:00,Laboratory,,PAT0027,61+,Completed,Lab Results Available,4,Delayed
+EVT0027_08,CASE0027,Treatment Started,2026-10-12 20:23:00,Treatment Room,DOC007,PAT0027,61+,Completed,Treatment Started,4,Delayed
+EVT0027_09,CASE0027,Treatment Completed,2026-10-12 21:01:00,Treatment Room,DOC006,PAT0027,61+,Completed,Treatment Completed,4,Delayed
+EVT0027_10,CASE0027,Inpatient Bed Requested,2026-10-12 22:02:00,Bed Management,,PAT0027,61+,Completed,Inpatient Bed Requested,4,Delayed
+EVT0027_11,CASE0027,Transfer Completed,2026-10-12 22:28:00,Inpatient Ward,,PAT0027,61+,Completed,Transferred to Inpatient Ward,4,Delayed
+EVT0028_01,CASE0028,Walk-in Registered,2026-10-06 10:02:00,Front Desk,,PAT0028,21-40,Completed,Registered,5,Not Applicable
+EVT0028_02,CASE0028,Triage Started,2026-10-06 10:20:00,Triage,,PAT0028,21-40,Completed,Triage Started,5,Not Applicable
+EVT0028_03,CASE0028,Triage Completed,2026-10-06 10:52:00,Triage,,PAT0028,21-40,Completed,Triage Completed,5,Not Applicable
+EVT0028_04,CASE0028,Assigned to Waiting Area,2026-10-06 11:17:00,Emergency,,PAT0028,21-40,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0028_05,CASE0028,First Physician Contact,2026-10-06 11:47:00,Emergency,DOC002,PAT0028,21-40,Completed,Physician Assessment Started,5,Not Applicable
+EVT0028_06,CASE0028,Lab Order Placed,2026-10-06 12:37:00,Emergency,,PAT0028,21-40,Completed,Lab Order Created,5,Not Applicable
+EVT0028_07,CASE0028,Lab Results Returned,2026-10-06 12:53:00,Laboratory,,PAT0028,21-40,Completed,Lab Results Available,5,Not Applicable
+EVT0028_08,CASE0028,Treatment Started,2026-10-06 13:38:00,Treatment Room,DOC005,PAT0028,21-40,Completed,Treatment Started,5,Not Applicable
+EVT0028_09,CASE0028,Treatment Completed,2026-10-06 13:50:00,Treatment Room,DOC003,PAT0028,21-40,Completed,Treatment Completed,5,Not Applicable
+EVT0028_10,CASE0028,Discharge Order Placed,2026-10-06 14:47:00,Emergency,,PAT0028,21-40,Completed,Discharge Approved,5,Not Applicable
+EVT0028_11,CASE0028,Physical Exit,2026-10-06 14:55:00,Exit,,PAT0028,21-40,Completed,Patient Exited,5,Not Applicable
+EVT0029_01,CASE0029,Walk-in Registered,2026-10-02 08:12:00,Front Desk,,PAT0029,13-20,Completed,Registered,5,Not Applicable
+EVT0029_02,CASE0029,Triage Started,2026-10-02 08:41:00,Triage,,PAT0029,13-20,Completed,Triage Started,5,Not Applicable
+EVT0029_03,CASE0029,Triage Completed,2026-10-02 09:06:00,Triage,,PAT0029,13-20,Completed,Triage Completed,5,Not Applicable
+EVT0029_04,CASE0029,Assigned to Waiting Area,2026-10-02 09:26:00,Emergency,,PAT0029,13-20,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0029_05,CASE0029,First Physician Contact,2026-10-02 09:41:00,Emergency,DOC002,PAT0029,13-20,Completed,Physician Assessment Started,5,Not Applicable
+EVT0029_06,CASE0029,Lab Order Placed,2026-10-02 10:37:00,Emergency,,PAT0029,13-20,Completed,Lab Order Created,5,Not Applicable
+EVT0029_07,CASE0029,Lab Results Returned,2026-10-02 10:55:00,Laboratory,,PAT0029,13-20,Completed,Lab Results Available,5,Not Applicable
+EVT0029_08,CASE0029,Imaging Order Placed,2026-10-02 11:48:00,Emergency,,PAT0029,13-20,Completed,Imaging Order Created,5,Not Applicable
+EVT0029_09,CASE0029,Imaging Results Returned,2026-10-02 11:58:00,Radiology,,PAT0029,13-20,Completed,Imaging Results Available,5,Not Applicable
+EVT0029_10,CASE0029,Treatment Started,2026-10-02 12:52:00,Treatment Room,DOC005,PAT0029,13-20,Completed,Treatment Started,5,Not Applicable
+EVT0029_11,CASE0029,Treatment Completed,2026-10-02 13:13:00,Treatment Room,DOC002,PAT0029,13-20,Completed,Treatment Completed,5,Not Applicable
+EVT0029_12,CASE0029,Discharge Order Placed,2026-10-02 14:00:00,Emergency,,PAT0029,13-20,Completed,Discharge Approved,5,Not Applicable
+EVT0029_13,CASE0029,Physical Exit,2026-10-02 14:29:00,Exit,,PAT0029,13-20,Completed,Patient Exited,5,Not Applicable
+EVT0030_01,CASE0030,Walk-in Registered,2026-10-08 15:33:00,Front Desk,,PAT0030,61+,Completed,Registered,4,Not Applicable
+EVT0030_02,CASE0030,Triage Started,2026-10-08 16:14:00,Triage,,PAT0030,61+,Completed,Triage Started,4,Not Applicable
+EVT0030_03,CASE0030,Triage Completed,2026-10-08 16:39:00,Triage,,PAT0030,61+,Completed,Triage Completed,4,Not Applicable
+EVT0030_04,CASE0030,Assigned to Waiting Area,2026-10-08 17:11:00,Emergency,,PAT0030,61+,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0030_05,CASE0030,First Physician Contact,2026-10-08 17:23:00,Emergency,DOC004,PAT0030,61+,Completed,Physician Assessment Started,4,Not Applicable
+EVT0030_06,CASE0030,Lab Order Placed,2026-10-08 18:01:00,Emergency,,PAT0030,61+,Completed,Lab Order Created,4,Not Applicable
+EVT0030_07,CASE0030,Lab Results Returned,2026-10-08 18:16:00,Laboratory,,PAT0030,61+,Completed,Lab Results Available,4,Not Applicable
+EVT0030_08,CASE0030,Treatment Started,2026-10-08 19:20:00,Treatment Room,DOC004,PAT0030,61+,Completed,Treatment Started,4,Not Applicable
+EVT0030_09,CASE0030,Treatment Completed,2026-10-08 19:37:00,Treatment Room,DOC002,PAT0030,61+,Completed,Treatment Completed,4,Not Applicable
+EVT0030_10,CASE0030,Discharge Order Placed,2026-10-08 20:32:00,Emergency,,PAT0030,61+,Completed,Discharge Approved,4,Not Applicable
+EVT0030_11,CASE0030,Physical Exit,2026-10-08 20:52:00,Exit,,PAT0030,61+,Completed,Patient Exited,4,Not Applicable
+EVT0031_01,CASE0031,Walk-in Registered,2026-10-05 12:49:00,Front Desk,,PAT0031,61+,Completed,Registered,2,Not Applicable
+EVT0031_02,CASE0031,Triage Started,2026-10-05 13:08:00,Triage,,PAT0031,61+,Completed,Triage Started,2,Not Applicable
+EVT0031_03,CASE0031,Triage Completed,2026-10-05 13:28:00,Triage,,PAT0031,61+,Completed,Triage Completed,2,Not Applicable
+EVT0031_04,CASE0031,Assigned to Waiting Area,2026-10-05 14:07:00,Emergency,,PAT0031,61+,Completed,Waiting Area Assigned,2,Not Applicable
+EVT0031_05,CASE0031,First Physician Contact,2026-10-05 14:40:00,Emergency,DOC007,PAT0031,61+,Completed,Physician Assessment Started,2,Not Applicable
+EVT0031_06,CASE0031,Treatment Started,2026-10-05 15:04:00,Treatment Room,DOC004,PAT0031,61+,Completed,Treatment Started,2,Not Applicable
+EVT0031_07,CASE0031,Treatment Completed,2026-10-05 15:42:00,Treatment Room,DOC005,PAT0031,61+,Completed,Treatment Completed,2,Not Applicable
+EVT0031_08,CASE0031,Discharge Order Placed,2026-10-05 16:32:00,Emergency,,PAT0031,61+,Completed,Discharge Approved,2,Not Applicable
+EVT0031_09,CASE0031,Physical Exit,2026-10-05 16:42:00,Exit,,PAT0031,61+,Completed,Patient Exited,2,Not Applicable
+EVT0032_01,CASE0032,Walk-in Registered,2026-10-05 15:29:00,Front Desk,,PAT0032,21-40,Completed,Registered,5,Not Applicable
+EVT0032_02,CASE0032,Triage Started,2026-10-05 15:54:00,Triage,,PAT0032,21-40,Completed,Triage Started,5,Not Applicable
+EVT0032_03,CASE0032,Triage Completed,2026-10-05 16:16:00,Triage,,PAT0032,21-40,Completed,Triage Completed,5,Not Applicable
+EVT0032_04,CASE0032,Assigned to Waiting Area,2026-10-05 17:02:00,Emergency,,PAT0032,21-40,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0032_05,CASE0032,First Physician Contact,2026-10-05 17:27:00,Emergency,DOC008,PAT0032,21-40,Completed,Physician Assessment Started,5,Not Applicable
+EVT0032_06,CASE0032,Treatment Started,2026-10-05 17:59:00,Treatment Room,DOC001,PAT0032,21-40,Completed,Treatment Started,5,Not Applicable
+EVT0032_07,CASE0032,Treatment Completed,2026-10-05 18:46:00,Treatment Room,DOC006,PAT0032,21-40,Completed,Treatment Completed,5,Not Applicable
+EVT0032_08,CASE0032,Discharge Order Placed,2026-10-05 19:47:00,Emergency,,PAT0032,21-40,Completed,Discharge Approved,5,Not Applicable
+EVT0032_09,CASE0032,Physical Exit,2026-10-05 19:56:00,Exit,,PAT0032,21-40,Completed,Patient Exited,5,Not Applicable
+EVT0033_01,CASE0033,Walk-in Registered,2026-10-13 19:28:00,Front Desk,,PAT0033,61+,Completed,Registered,1,Not Applicable
+EVT0033_02,CASE0033,Triage Started,2026-10-13 20:00:00,Triage,,PAT0033,61+,Completed,Triage Started,1,Not Applicable
+EVT0033_03,CASE0033,Triage Completed,2026-10-13 20:32:00,Triage,,PAT0033,61+,Completed,Triage Completed,1,Not Applicable
+EVT0033_04,CASE0033,Assigned to Waiting Area,2026-10-13 20:59:00,Emergency,,PAT0033,61+,Completed,Waiting Area Assigned,1,Not Applicable
+EVT0033_05,CASE0033,First Physician Contact,2026-10-13 21:30:00,Emergency,DOC005,PAT0033,61+,Completed,Physician Assessment Started,1,Not Applicable
+EVT0033_06,CASE0033,Treatment Started,2026-10-13 22:04:00,Treatment Room,DOC007,PAT0033,61+,Completed,Treatment Started,1,Not Applicable
+EVT0033_07,CASE0033,Treatment Completed,2026-10-13 22:43:00,Treatment Room,DOC002,PAT0033,61+,Completed,Treatment Completed,1,Not Applicable
+EVT0033_08,CASE0033,Discharge Order Placed,2026-10-13 23:44:00,Emergency,,PAT0033,61+,Completed,Discharge Approved,1,Not Applicable
+EVT0033_09,CASE0033,Physical Exit,2026-10-14 00:06:00,Exit,,PAT0033,61+,Completed,Patient Exited,1,Not Applicable
+EVT0034_01,CASE0034,Walk-in Registered,2026-10-12 16:27:00,Front Desk,,PAT0034,0-12,Completed,Registered,4,Not Applicable
+EVT0034_02,CASE0034,Triage Started,2026-10-12 17:02:00,Triage,,PAT0034,0-12,Completed,Triage Started,4,Not Applicable
+EVT0034_03,CASE0034,Triage Completed,2026-10-12 17:39:00,Triage,,PAT0034,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0034_04,CASE0034,Assigned to Waiting Area,2026-10-12 18:03:00,Emergency,,PAT0034,0-12,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0034_05,CASE0034,First Physician Contact,2026-10-12 18:20:00,Emergency,DOC006,PAT0034,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0034_06,CASE0034,Imaging Order Placed,2026-10-12 18:46:00,Emergency,,PAT0034,0-12,Completed,Imaging Order Created,4,Not Applicable
+EVT0034_07,CASE0034,Imaging Results Returned,2026-10-12 19:22:00,Radiology,,PAT0034,0-12,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0034_08,CASE0034,Triage Started,2026-10-12 20:40:00,Triage,,PAT0034,0-12,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0034_09,CASE0034,Triage Completed,2026-10-12 21:09:00,Triage,,PAT0034,0-12,Completed,Reassessment Completed,4,Not Applicable
+EVT0034_10,CASE0034,First Physician Contact,2026-10-12 21:59:00,Emergency,DOC004,PAT0034,0-12,Completed,Repeat Physician Review,4,Not Applicable
+EVT0034_11,CASE0034,Treatment Started,2026-10-12 22:31:00,Treatment Room,DOC008,PAT0034,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0034_12,CASE0034,Treatment Completed,2026-10-12 23:06:00,Treatment Room,DOC001,PAT0034,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0034_13,CASE0034,Discharge Order Placed,2026-10-12 23:55:00,Emergency,,PAT0034,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0034_14,CASE0034,Physical Exit,2026-10-13 00:21:00,Exit,,PAT0034,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0035_01,CASE0035,Walk-in Registered,2026-10-02 08:29:00,Front Desk,,PAT0035,21-40,Completed,Registered,4,Not Applicable
+EVT0035_02,CASE0035,Triage Started,2026-10-02 09:04:00,Triage,,PAT0035,21-40,Completed,Triage Started,4,Not Applicable
+EVT0035_03,CASE0035,Triage Completed,2026-10-02 09:22:00,Triage,,PAT0035,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0035_04,CASE0035,Assigned to Waiting Area,2026-10-02 09:49:00,Emergency,,PAT0035,21-40,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0035_05,CASE0035,First Physician Contact,2026-10-02 10:01:00,Emergency,DOC002,PAT0035,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0035_06,CASE0035,Treatment Started,2026-10-02 10:37:00,Treatment Room,DOC003,PAT0035,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0035_07,CASE0035,Treatment Completed,2026-10-02 11:03:00,Treatment Room,DOC005,PAT0035,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0035_08,CASE0035,Discharge Order Placed,2026-10-02 11:49:00,Emergency,,PAT0035,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0035_09,CASE0035,Physical Exit,2026-10-02 12:14:00,Exit,,PAT0035,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0036_01,CASE0036,Walk-in Registered,2026-10-10 16:40:00,Front Desk,,PAT0036,61+,Completed,Registered,3,Not Applicable
+EVT0036_02,CASE0036,Triage Started,2026-10-10 17:19:00,Triage,,PAT0036,61+,Completed,Triage Started,3,Not Applicable
+EVT0036_03,CASE0036,Triage Completed,2026-10-10 17:35:00,Triage,,PAT0036,61+,Completed,Triage Completed,3,Not Applicable
+EVT0036_04,CASE0036,Assigned to Waiting Area,2026-10-10 18:01:00,Emergency,,PAT0036,61+,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0036_05,CASE0036,First Physician Contact,2026-10-10 18:30:00,Emergency,DOC001,PAT0036,61+,Completed,Physician Assessment Started,3,Not Applicable
+EVT0036_06,CASE0036,Lab Order Placed,2026-10-10 19:02:00,Emergency,,PAT0036,61+,Completed,Lab Order Created,3,Not Applicable
+EVT0036_07,CASE0036,Lab Results Returned,2026-10-10 19:36:00,Laboratory,,PAT0036,61+,Completed,Lab Results Available,3,Not Applicable
+EVT0036_08,CASE0036,Treatment Started,2026-10-10 20:51:00,Treatment Room,DOC008,PAT0036,61+,Completed,Treatment Started,3,Not Applicable
+EVT0036_09,CASE0036,Treatment Completed,2026-10-10 21:38:00,Treatment Room,DOC008,PAT0036,61+,Completed,Treatment Completed,3,Not Applicable
+EVT0036_10,CASE0036,Discharge Order Placed,2026-10-10 22:19:00,Emergency,,PAT0036,61+,Completed,Discharge Approved,3,Not Applicable
+EVT0036_11,CASE0036,Physical Exit,2026-10-10 22:40:00,Exit,,PAT0036,61+,Completed,Patient Exited,3,Not Applicable
+EVT0037_01,CASE0037,Ambulance Arrived,2026-10-14 11:13:00,Emergency,,PAT0037,61+,Completed,Ambulance Arrival Recorded,5,Not Applicable
+EVT0037_02,CASE0037,Triage Started,2026-10-14 11:32:00,Triage,,PAT0037,61+,Completed,Triage Started,5,Not Applicable
+EVT0037_03,CASE0037,Triage Completed,2026-10-14 11:56:00,Triage,,PAT0037,61+,Completed,Triage Completed,5,Not Applicable
+EVT0037_04,CASE0037,Assigned to ER Bed,2026-10-14 12:36:00,Emergency,,PAT0037,61+,Completed,ER Bed Assigned,5,Not Applicable
+EVT0037_05,CASE0037,First Physician Contact,2026-10-14 12:53:00,Emergency,DOC008,PAT0037,61+,Completed,Physician Assessment Started,5,Not Applicable
+EVT0037_06,CASE0037,Imaging Order Placed,2026-10-14 13:40:00,Emergency,,PAT0037,61+,Completed,Imaging Order Created,5,Not Applicable
+EVT0037_07,CASE0037,Imaging Results Returned,2026-10-14 14:01:00,Radiology,,PAT0037,61+,Completed,Imaging Results Available,5,Not Applicable
+EVT0037_08,CASE0037,Treatment Started,2026-10-14 15:28:00,Treatment Room,DOC003,PAT0037,61+,Completed,Treatment Started,5,Not Applicable
+EVT0037_09,CASE0037,Treatment Completed,2026-10-14 16:03:00,Treatment Room,DOC003,PAT0037,61+,Completed,Treatment Completed,5,Not Applicable
+EVT0037_10,CASE0037,Discharge Order Placed,2026-10-14 16:36:00,Emergency,,PAT0037,61+,Completed,Discharge Approved,5,Not Applicable
+EVT0037_11,CASE0037,Physical Exit,2026-10-14 16:57:00,Exit,,PAT0037,61+,Completed,Patient Exited,5,Not Applicable
+EVT0038_01,CASE0038,Walk-in Registered,2026-10-01 10:27:00,Front Desk,,PAT0038,41-60,Completed,Registered,5,Not Applicable
+EVT0038_02,CASE0038,Triage Started,2026-10-01 11:10:00,Triage,,PAT0038,41-60,Completed,Triage Started,5,Not Applicable
+EVT0038_03,CASE0038,Triage Completed,2026-10-01 11:27:00,Triage,,PAT0038,41-60,Completed,Triage Completed,5,Not Applicable
+EVT0038_04,CASE0038,Assigned to Waiting Area,2026-10-01 11:53:00,Emergency,,PAT0038,41-60,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0038_05,CASE0038,First Physician Contact,2026-10-01 12:14:00,Emergency,DOC007,PAT0038,41-60,Completed,Physician Assessment Started,5,Not Applicable
+EVT0038_06,CASE0038,Lab Order Placed,2026-10-01 12:59:00,Emergency,,PAT0038,41-60,Completed,Lab Order Created,5,Not Applicable
+EVT0038_07,CASE0038,Lab Results Returned,2026-10-01 13:32:00,Laboratory,,PAT0038,41-60,Completed,Lab Results Available,5,Not Applicable
+EVT0038_08,CASE0038,Treatment Started,2026-10-01 14:40:00,Treatment Room,DOC007,PAT0038,41-60,Completed,Treatment Started,5,Not Applicable
+EVT0038_09,CASE0038,Treatment Completed,2026-10-01 15:30:00,Treatment Room,DOC008,PAT0038,41-60,Completed,Treatment Completed,5,Not Applicable
+EVT0038_10,CASE0038,Discharge Order Placed,2026-10-01 16:32:00,Emergency,,PAT0038,41-60,Completed,Discharge Approved,5,Not Applicable
+EVT0038_11,CASE0038,Physical Exit,2026-10-01 16:44:00,Exit,,PAT0038,41-60,Completed,Patient Exited,5,Not Applicable
+EVT0039_01,CASE0039,Walk-in Registered,2026-10-04 09:32:00,Front Desk,,PAT0039,13-20,Completed,Registered,5,Not Applicable
+EVT0039_02,CASE0039,Triage Started,2026-10-04 09:51:00,Triage,,PAT0039,13-20,Completed,Triage Started,5,Not Applicable
+EVT0039_03,CASE0039,Triage Completed,2026-10-04 10:26:00,Triage,,PAT0039,13-20,Completed,Triage Completed,5,Not Applicable
+EVT0039_04,CASE0039,Assigned to Waiting Area,2026-10-04 10:51:00,Emergency,,PAT0039,13-20,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0039_05,CASE0039,First Physician Contact,2026-10-04 11:21:00,Emergency,DOC001,PAT0039,13-20,Completed,Physician Assessment Started,5,Not Applicable
+EVT0039_06,CASE0039,Lab Order Placed,2026-10-04 11:46:00,Emergency,,PAT0039,13-20,Completed,Lab Order Created,5,Not Applicable
+EVT0039_07,CASE0039,Lab Results Returned,2026-10-04 12:19:00,Laboratory,,PAT0039,13-20,Completed,Lab Results Available,5,Not Applicable
+EVT0039_08,CASE0039,Imaging Order Placed,2026-10-04 12:51:00,Emergency,,PAT0039,13-20,Completed,Imaging Order Created,5,Not Applicable
+EVT0039_09,CASE0039,Imaging Results Returned,2026-10-04 13:10:00,Radiology,,PAT0039,13-20,Completed,Imaging Results Available,5,Not Applicable
+EVT0039_10,CASE0039,Treatment Started,2026-10-04 14:01:00,Treatment Room,DOC007,PAT0039,13-20,Completed,Treatment Started,5,Not Applicable
+EVT0039_11,CASE0039,Treatment Completed,2026-10-04 14:32:00,Treatment Room,DOC003,PAT0039,13-20,Completed,Treatment Completed,5,Not Applicable
+EVT0039_12,CASE0039,Discharge Order Placed,2026-10-04 15:03:00,Emergency,,PAT0039,13-20,Completed,Discharge Approved,5,Not Applicable
+EVT0039_13,CASE0039,Physical Exit,2026-10-04 15:29:00,Exit,,PAT0039,13-20,Completed,Patient Exited,5,Not Applicable
+EVT0040_01,CASE0040,Walk-in Registered,2026-10-10 10:26:00,Front Desk,,PAT0040,61+,Completed,Registered,4,Not Applicable
+EVT0040_02,CASE0040,Triage Started,2026-10-10 10:53:00,Triage,,PAT0040,61+,Completed,Triage Started,4,Not Applicable
+EVT0040_03,CASE0040,Triage Completed,2026-10-10 11:14:00,Triage,,PAT0040,61+,Completed,Triage Completed,4,Not Applicable
+EVT0040_04,CASE0040,Assigned to Waiting Area,2026-10-10 11:39:00,Emergency,,PAT0040,61+,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0040_05,CASE0040,First Physician Contact,2026-10-10 11:51:00,Emergency,DOC005,PAT0040,61+,Completed,Physician Assessment Started,4,Not Applicable
+EVT0040_06,CASE0040,Lab Order Placed,2026-10-10 12:41:00,Emergency,,PAT0040,61+,Completed,Lab Order Created,4,Not Applicable
+EVT0040_07,CASE0040,Lab Results Returned,2026-10-10 12:50:00,Laboratory,,PAT0040,61+,Completed,Lab Results Available,4,Not Applicable
+EVT0040_08,CASE0040,Imaging Order Placed,2026-10-10 14:08:00,Emergency,,PAT0040,61+,Completed,Imaging Order Created,4,Not Applicable
+EVT0040_09,CASE0040,Imaging Results Returned,2026-10-10 14:34:00,Radiology,,PAT0040,61+,Completed,Imaging Results Available,4,Not Applicable
+EVT0040_10,CASE0040,Treatment Started,2026-10-10 15:33:00,Treatment Room,DOC005,PAT0040,61+,Completed,Treatment Started,4,Not Applicable
+EVT0040_11,CASE0040,Treatment Completed,2026-10-10 16:03:00,Treatment Room,DOC004,PAT0040,61+,Completed,Treatment Completed,4,Not Applicable
+EVT0040_12,CASE0040,Discharge Order Placed,2026-10-10 16:49:00,Emergency,,PAT0040,61+,Completed,Discharge Approved,4,Not Applicable
+EVT0040_13,CASE0040,Physical Exit,2026-10-10 17:02:00,Exit,,PAT0040,61+,Completed,Patient Exited,4,Not Applicable
+EVT0041_01,CASE0041,Ambulance Arrived,2026-10-12 13:02:00,Emergency,,PAT0041,61+,Completed,Ambulance Arrival Recorded,3,Not Applicable
+EVT0041_02,CASE0041,Triage Started,2026-10-12 13:35:00,Triage,,PAT0041,61+,Completed,Triage Started,3,Not Applicable
+EVT0041_03,CASE0041,Triage Completed,2026-10-12 14:00:00,Triage,,PAT0041,61+,Completed,Triage Completed,3,Not Applicable
+EVT0041_04,CASE0041,Assigned to ER Bed,2026-10-12 14:14:00,Emergency,,PAT0041,61+,Completed,ER Bed Assigned,3,Not Applicable
+EVT0041_05,CASE0041,First Physician Contact,2026-10-12 15:00:00,Emergency,DOC008,PAT0041,61+,Completed,Physician Assessment Started,3,Not Applicable
+EVT0041_06,CASE0041,Imaging Order Placed,2026-10-12 15:42:00,Emergency,,PAT0041,61+,Completed,Imaging Order Created,3,Not Applicable
+EVT0041_07,CASE0041,Imaging Results Returned,2026-10-12 16:14:00,Radiology,,PAT0041,61+,Completed,Imaging Results Available,3,Not Applicable
+EVT0041_08,CASE0041,Treatment Started,2026-10-12 17:07:00,Treatment Room,DOC004,PAT0041,61+,Completed,Treatment Started,3,Not Applicable
+EVT0041_09,CASE0041,Treatment Completed,2026-10-12 17:42:00,Treatment Room,DOC005,PAT0041,61+,Completed,Treatment Completed,3,Not Applicable
+EVT0041_10,CASE0041,Discharge Order Placed,2026-10-12 18:30:00,Emergency,,PAT0041,61+,Completed,Discharge Approved,3,Not Applicable
+EVT0041_11,CASE0041,Physical Exit,2026-10-12 18:58:00,Exit,,PAT0041,61+,Completed,Patient Exited,3,Not Applicable
+EVT0042_01,CASE0042,Ambulance Arrived,2026-10-10 14:13:00,Emergency,,PAT0042,0-12,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0042_02,CASE0042,Triage Started,2026-10-10 14:29:00,Triage,,PAT0042,0-12,Completed,Triage Started,4,Not Applicable
+EVT0042_03,CASE0042,Triage Completed,2026-10-10 15:06:00,Triage,,PAT0042,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0042_04,CASE0042,Assigned to ER Bed,2026-10-10 15:30:00,Emergency,,PAT0042,0-12,Completed,ER Bed Assigned,4,Not Applicable
+EVT0042_05,CASE0042,First Physician Contact,2026-10-10 15:51:00,Emergency,DOC003,PAT0042,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0042_06,CASE0042,Imaging Order Placed,2026-10-10 16:37:00,Emergency,,PAT0042,0-12,Completed,Imaging Order Created,4,Not Applicable
+EVT0042_07,CASE0042,Imaging Results Returned,2026-10-10 17:01:00,Radiology,,PAT0042,0-12,Completed,Imaging Results Available,4,Not Applicable
+EVT0042_08,CASE0042,Treatment Started,2026-10-10 18:22:00,Treatment Room,DOC003,PAT0042,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0042_09,CASE0042,Treatment Completed,2026-10-10 18:44:00,Treatment Room,DOC005,PAT0042,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0042_10,CASE0042,Discharge Order Placed,2026-10-10 19:52:00,Emergency,,PAT0042,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0042_11,CASE0042,Physical Exit,2026-10-10 20:26:00,Exit,,PAT0042,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0043_01,CASE0043,Walk-in Registered,2026-10-14 19:32:00,Front Desk,,PAT0043,0-12,Completed,Registered,5,Not Applicable
+EVT0043_02,CASE0043,Triage Started,2026-10-14 20:18:00,Triage,,PAT0043,0-12,Completed,Triage Started,5,Not Applicable
+EVT0043_03,CASE0043,Triage Completed,2026-10-14 20:41:00,Triage,,PAT0043,0-12,Completed,Triage Completed,5,Not Applicable
+EVT0043_04,CASE0043,Assigned to Waiting Area,2026-10-14 21:17:00,Emergency,,PAT0043,0-12,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0043_05,CASE0043,First Physician Contact,2026-10-14 21:27:00,Emergency,DOC002,PAT0043,0-12,Completed,Physician Assessment Started,5,Not Applicable
+EVT0043_06,CASE0043,Lab Order Placed,2026-10-14 22:04:00,Emergency,,PAT0043,0-12,Completed,Lab Order Created,5,Not Applicable
+EVT0043_07,CASE0043,Lab Results Returned,2026-10-14 22:33:00,Laboratory,,PAT0043,0-12,Completed,Lab Results Available,5,Not Applicable
+EVT0043_08,CASE0043,Treatment Started,2026-10-14 23:44:00,Treatment Room,DOC007,PAT0043,0-12,Completed,Treatment Started,5,Not Applicable
+EVT0043_09,CASE0043,Treatment Completed,2026-10-15 00:29:00,Treatment Room,DOC002,PAT0043,0-12,Completed,Treatment Completed,5,Not Applicable
+EVT0043_10,CASE0043,Discharge Order Placed,2026-10-15 01:28:00,Emergency,,PAT0043,0-12,Completed,Discharge Approved,5,Not Applicable
+EVT0043_11,CASE0043,Physical Exit,2026-10-15 01:51:00,Exit,,PAT0043,0-12,Completed,Patient Exited,5,Not Applicable
+EVT0044_01,CASE0044,Ambulance Arrived,2026-10-11 09:04:00,Emergency,,PAT0044,61+,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0044_02,CASE0044,Triage Started,2026-10-11 09:42:00,Triage,,PAT0044,61+,Completed,Triage Started,4,Not Applicable
+EVT0044_03,CASE0044,Triage Completed,2026-10-11 10:22:00,Triage,,PAT0044,61+,Completed,Triage Completed,4,Not Applicable
+EVT0044_04,CASE0044,Assigned to ER Bed,2026-10-11 10:56:00,Emergency,,PAT0044,61+,Completed,ER Bed Assigned,4,Not Applicable
+EVT0044_05,CASE0044,First Physician Contact,2026-10-11 11:15:00,Emergency,DOC001,PAT0044,61+,Completed,Physician Assessment Started,4,Not Applicable
+EVT0044_06,CASE0044,Imaging Order Placed,2026-10-11 12:04:00,Emergency,,PAT0044,61+,Completed,Imaging Order Created,4,Not Applicable
+EVT0044_07,CASE0044,Imaging Results Returned,2026-10-11 12:19:00,Radiology,,PAT0044,61+,Completed,Imaging Results Available,4,Not Applicable
+EVT0044_08,CASE0044,Treatment Started,2026-10-11 13:13:00,Treatment Room,DOC004,PAT0044,61+,Completed,Treatment Started,4,Not Applicable
+EVT0044_09,CASE0044,Treatment Completed,2026-10-11 13:52:00,Treatment Room,DOC003,PAT0044,61+,Completed,Treatment Completed,4,Not Applicable
+EVT0044_10,CASE0044,Discharge Order Placed,2026-10-11 14:53:00,Emergency,,PAT0044,61+,Completed,Discharge Approved,4,Not Applicable
+EVT0044_11,CASE0044,Physical Exit,2026-10-11 15:14:00,Exit,,PAT0044,61+,Completed,Patient Exited,4,Not Applicable
+EVT0045_01,CASE0045,Ambulance Arrived,2026-10-03 15:04:00,Emergency,,PAT0045,61+,Completed,Ambulance Arrival Recorded,5,Not Applicable
+EVT0045_02,CASE0045,Triage Started,2026-10-03 15:19:00,Triage,,PAT0045,61+,Completed,Triage Started,5,Not Applicable
+EVT0045_03,CASE0045,Triage Completed,2026-10-03 15:49:00,Triage,,PAT0045,61+,Completed,Triage Completed,5,Not Applicable
+EVT0045_04,CASE0045,Assigned to ER Bed,2026-10-03 16:35:00,Emergency,,PAT0045,61+,Completed,ER Bed Assigned,5,Not Applicable
+EVT0045_05,CASE0045,First Physician Contact,2026-10-03 16:50:00,Emergency,DOC004,PAT0045,61+,Completed,Physician Assessment Started,5,Not Applicable
+EVT0045_06,CASE0045,Imaging Order Placed,2026-10-03 17:30:00,Emergency,,PAT0045,61+,Completed,Imaging Order Created,5,Not Applicable
+EVT0045_07,CASE0045,Imaging Results Returned,2026-10-03 18:09:00,Radiology,,PAT0045,61+,Completed,Imaging Results Available,5,Not Applicable
+EVT0045_08,CASE0045,Treatment Started,2026-10-03 19:11:00,Treatment Room,DOC002,PAT0045,61+,Completed,Treatment Started,5,Not Applicable
+EVT0045_09,CASE0045,Treatment Completed,2026-10-03 19:47:00,Treatment Room,DOC006,PAT0045,61+,Completed,Treatment Completed,5,Not Applicable
+EVT0045_10,CASE0045,Discharge Order Placed,2026-10-03 20:26:00,Emergency,,PAT0045,61+,Completed,Discharge Approved,5,Not Applicable
+EVT0045_11,CASE0045,Physical Exit,2026-10-03 20:44:00,Exit,,PAT0045,61+,Completed,Patient Exited,5,Not Applicable
+EVT0046_01,CASE0046,Walk-in Registered,2026-10-02 19:18:00,Front Desk,,PAT0046,0-12,Completed,Registered,5,Not Applicable
+EVT0046_02,CASE0046,Triage Started,2026-10-02 19:51:00,Triage,,PAT0046,0-12,Completed,Triage Started,5,Not Applicable
+EVT0046_03,CASE0046,Triage Completed,2026-10-02 20:23:00,Triage,,PAT0046,0-12,Completed,Triage Completed,5,Not Applicable
+EVT0046_04,CASE0046,Assigned to Waiting Area,2026-10-02 20:34:00,Emergency,,PAT0046,0-12,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0046_05,CASE0046,First Physician Contact,2026-10-02 20:57:00,Emergency,DOC003,PAT0046,0-12,Completed,Physician Assessment Started,5,Not Applicable
+EVT0046_06,CASE0046,Imaging Order Placed,2026-10-02 21:44:00,Emergency,,PAT0046,0-12,Completed,Imaging Order Created,5,Not Applicable
+EVT0046_07,CASE0046,Imaging Results Returned,2026-10-02 21:53:00,Radiology,,PAT0046,0-12,Completed,Paperwork Missing - Rework Required,5,Not Applicable
+EVT0046_08,CASE0046,Triage Started,2026-10-02 22:54:00,Triage,,PAT0046,0-12,Completed,Triage Repeated After Paperwork Issue,5,Not Applicable
+EVT0046_09,CASE0046,Triage Completed,2026-10-02 23:12:00,Triage,,PAT0046,0-12,Completed,Reassessment Completed,5,Not Applicable
+EVT0046_10,CASE0046,First Physician Contact,2026-10-02 23:55:00,Emergency,DOC001,PAT0046,0-12,Completed,Repeat Physician Review,5,Not Applicable
+EVT0046_11,CASE0046,Treatment Started,2026-10-03 00:22:00,Treatment Room,DOC003,PAT0046,0-12,Completed,Treatment Started,5,Not Applicable
+EVT0046_12,CASE0046,Treatment Completed,2026-10-03 00:51:00,Treatment Room,DOC003,PAT0046,0-12,Completed,Treatment Completed,5,Not Applicable
+EVT0046_13,CASE0046,Discharge Order Placed,2026-10-03 01:25:00,Emergency,,PAT0046,0-12,Completed,Discharge Approved,5,Not Applicable
+EVT0046_14,CASE0046,Physical Exit,2026-10-03 01:36:00,Exit,,PAT0046,0-12,Completed,Patient Exited,5,Not Applicable
+EVT0047_01,CASE0047,Walk-in Registered,2026-10-05 08:53:00,Front Desk,,PAT0047,13-20,Completed,Registered,1,Not Applicable
+EVT0047_02,CASE0047,Triage Started,2026-10-05 09:28:00,Triage,,PAT0047,13-20,Completed,Triage Started,1,Not Applicable
+EVT0047_03,CASE0047,Triage Completed,2026-10-05 09:55:00,Triage,,PAT0047,13-20,Completed,Triage Completed,1,Not Applicable
+EVT0047_04,CASE0047,Assigned to Waiting Area,2026-10-05 10:29:00,Emergency,,PAT0047,13-20,Completed,Waiting Area Assigned,1,Not Applicable
+EVT0047_05,CASE0047,First Physician Contact,2026-10-05 10:51:00,Emergency,DOC006,PAT0047,13-20,Completed,Physician Assessment Started,1,Not Applicable
+EVT0047_06,CASE0047,Treatment Started,2026-10-05 11:36:00,Treatment Room,DOC002,PAT0047,13-20,Completed,Treatment Started,1,Not Applicable
+EVT0047_07,CASE0047,Treatment Completed,2026-10-05 12:09:00,Treatment Room,DOC004,PAT0047,13-20,Completed,Treatment Completed,1,Not Applicable
+EVT0047_08,CASE0047,Discharge Order Placed,2026-10-05 13:26:00,Emergency,,PAT0047,13-20,Completed,Discharge Approved,1,Not Applicable
+EVT0047_09,CASE0047,Physical Exit,2026-10-05 13:38:00,Exit,,PAT0047,13-20,Completed,Patient Exited,1,Not Applicable
+EVT0048_01,CASE0048,Ambulance Arrived,2026-10-01 09:02:00,Emergency,,PAT0048,61+,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0048_02,CASE0048,Triage Started,2026-10-01 09:39:00,Triage,,PAT0048,61+,Completed,Triage Started,4,Not Applicable
+EVT0048_03,CASE0048,Triage Completed,2026-10-01 10:03:00,Triage,,PAT0048,61+,Completed,Triage Completed,4,Not Applicable
+EVT0048_04,CASE0048,Assigned to ER Bed,2026-10-01 10:29:00,Emergency,,PAT0048,61+,Completed,ER Bed Assigned,4,Not Applicable
+EVT0048_05,CASE0048,First Physician Contact,2026-10-01 10:48:00,Emergency,DOC006,PAT0048,61+,Completed,Physician Assessment Started,4,Not Applicable
+EVT0048_06,CASE0048,Imaging Order Placed,2026-10-01 11:24:00,Emergency,,PAT0048,61+,Completed,Imaging Order Created,4,Not Applicable
+EVT0048_07,CASE0048,Imaging Results Returned,2026-10-01 11:33:00,Radiology,,PAT0048,61+,Completed,Imaging Results Available,4,Not Applicable
+EVT0048_08,CASE0048,Treatment Started,2026-10-01 12:09:00,Treatment Room,DOC006,PAT0048,61+,Completed,Treatment Started,4,Not Applicable
+EVT0048_09,CASE0048,Treatment Completed,2026-10-01 12:40:00,Treatment Room,DOC005,PAT0048,61+,Completed,Treatment Completed,4,Not Applicable
+EVT0048_10,CASE0048,Discharge Order Placed,2026-10-01 13:42:00,Emergency,,PAT0048,61+,Completed,Discharge Approved,4,Not Applicable
+EVT0048_11,CASE0048,Physical Exit,2026-10-01 14:12:00,Exit,,PAT0048,61+,Completed,Patient Exited,4,Not Applicable
+EVT0049_01,CASE0049,Walk-in Registered,2026-10-13 17:24:00,Front Desk,,PAT0049,0-12,Completed,Registered,4,Not Applicable
+EVT0049_02,CASE0049,Triage Started,2026-10-13 17:50:00,Triage,,PAT0049,0-12,Completed,Triage Started,4,Not Applicable
+EVT0049_03,CASE0049,Triage Completed,2026-10-13 18:29:00,Triage,,PAT0049,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0049_04,CASE0049,Assigned to Waiting Area,2026-10-13 18:55:00,Emergency,,PAT0049,0-12,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0049_05,CASE0049,First Physician Contact,2026-10-13 19:30:00,Emergency,DOC007,PAT0049,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0049_06,CASE0049,Imaging Order Placed,2026-10-13 20:12:00,Emergency,,PAT0049,0-12,Completed,Imaging Order Created,4,Not Applicable
+EVT0049_07,CASE0049,Imaging Results Returned,2026-10-13 20:28:00,Radiology,,PAT0049,0-12,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0049_08,CASE0049,Triage Started,2026-10-13 21:25:00,Triage,,PAT0049,0-12,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0049_09,CASE0049,Triage Completed,2026-10-13 21:46:00,Triage,,PAT0049,0-12,Completed,Reassessment Completed,4,Not Applicable
+EVT0049_10,CASE0049,First Physician Contact,2026-10-13 22:51:00,Emergency,DOC008,PAT0049,0-12,Completed,Repeat Physician Review,4,Not Applicable
+EVT0049_11,CASE0049,Treatment Started,2026-10-13 23:12:00,Treatment Room,DOC002,PAT0049,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0049_12,CASE0049,Treatment Completed,2026-10-13 23:25:00,Treatment Room,DOC002,PAT0049,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0049_13,CASE0049,Discharge Order Placed,2026-10-14 00:30:00,Emergency,,PAT0049,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0049_14,CASE0049,Physical Exit,2026-10-14 01:04:00,Exit,,PAT0049,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0050_01,CASE0050,Walk-in Registered,2026-10-06 19:26:00,Front Desk,,PAT0050,0-12,Completed,Registered,4,Not Applicable
+EVT0050_02,CASE0050,Triage Started,2026-10-06 19:50:00,Triage,,PAT0050,0-12,Completed,Triage Started,4,Not Applicable
+EVT0050_03,CASE0050,Triage Completed,2026-10-06 20:27:00,Triage,,PAT0050,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0050_04,CASE0050,Assigned to Waiting Area,2026-10-06 21:10:00,Emergency,,PAT0050,0-12,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0050_05,CASE0050,First Physician Contact,2026-10-06 21:23:00,Emergency,DOC005,PAT0050,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0050_06,CASE0050,Treatment Started,2026-10-06 21:58:00,Treatment Room,DOC004,PAT0050,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0050_07,CASE0050,Treatment Completed,2026-10-06 22:13:00,Treatment Room,DOC004,PAT0050,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0050_08,CASE0050,Discharge Order Placed,2026-10-06 23:25:00,Emergency,,PAT0050,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0050_09,CASE0050,Physical Exit,2026-10-06 23:43:00,Exit,,PAT0050,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0051_01,CASE0051,Walk-in Registered,2026-10-04 15:19:00,Front Desk,,PAT0051,21-40,Completed,Registered,3,Not Applicable
+EVT0051_02,CASE0051,Triage Started,2026-10-04 15:48:00,Triage,,PAT0051,21-40,Completed,Triage Started,3,Not Applicable
+EVT0051_03,CASE0051,Triage Completed,2026-10-04 16:27:00,Triage,,PAT0051,21-40,Completed,Triage Completed,3,Not Applicable
+EVT0051_04,CASE0051,Assigned to Waiting Area,2026-10-04 16:41:00,Emergency,,PAT0051,21-40,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0051_05,CASE0051,First Physician Contact,2026-10-04 16:57:00,Emergency,DOC006,PAT0051,21-40,Completed,Physician Assessment Started,3,Not Applicable
+EVT0051_06,CASE0051,Lab Order Placed,2026-10-04 17:32:00,Emergency,,PAT0051,21-40,Completed,Lab Order Created,3,Not Applicable
+EVT0051_07,CASE0051,Lab Results Returned,2026-10-04 17:43:00,Laboratory,,PAT0051,21-40,Completed,Lab Results Available,3,Not Applicable
+EVT0051_08,CASE0051,Treatment Started,2026-10-04 18:30:00,Treatment Room,DOC007,PAT0051,21-40,Completed,Treatment Started,3,Not Applicable
+EVT0051_09,CASE0051,Treatment Completed,2026-10-04 18:52:00,Treatment Room,DOC001,PAT0051,21-40,Completed,Treatment Completed,3,Not Applicable
+EVT0051_10,CASE0051,Discharge Order Placed,2026-10-04 19:18:00,Emergency,,PAT0051,21-40,Completed,Discharge Approved,3,Not Applicable
+EVT0051_11,CASE0051,Physical Exit,2026-10-04 19:35:00,Exit,,PAT0051,21-40,Completed,Patient Exited,3,Not Applicable
+EVT0052_01,CASE0052,Ambulance Arrived,2026-10-12 13:32:00,Emergency,,PAT0052,41-60,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0052_02,CASE0052,Triage Started,2026-10-12 14:15:00,Triage,,PAT0052,41-60,Completed,Triage Started,4,Not Applicable
+EVT0052_03,CASE0052,Triage Completed,2026-10-12 14:46:00,Triage,,PAT0052,41-60,Completed,Triage Completed,4,Not Applicable
+EVT0052_04,CASE0052,Assigned to ER Bed,2026-10-12 15:25:00,Emergency,,PAT0052,41-60,Completed,ER Bed Assigned,4,Not Applicable
+EVT0052_05,CASE0052,First Physician Contact,2026-10-12 15:39:00,Emergency,DOC001,PAT0052,41-60,Completed,Physician Assessment Started,4,Not Applicable
+EVT0052_06,CASE0052,Imaging Order Placed,2026-10-12 16:20:00,Emergency,,PAT0052,41-60,Completed,Imaging Order Created,4,Not Applicable
+EVT0052_07,CASE0052,Imaging Results Returned,2026-10-12 16:34:00,Radiology,,PAT0052,41-60,Completed,Imaging Results Available,4,Not Applicable
+EVT0052_08,CASE0052,Treatment Started,2026-10-12 17:43:00,Treatment Room,DOC008,PAT0052,41-60,Completed,Treatment Started,4,Not Applicable
+EVT0052_09,CASE0052,Treatment Completed,2026-10-12 18:18:00,Treatment Room,DOC007,PAT0052,41-60,Completed,Treatment Completed,4,Not Applicable
+EVT0052_10,CASE0052,Discharge Order Placed,2026-10-12 19:09:00,Emergency,,PAT0052,41-60,Completed,Discharge Approved,4,Not Applicable
+EVT0052_11,CASE0052,Physical Exit,2026-10-12 19:41:00,Exit,,PAT0052,41-60,Completed,Patient Exited,4,Not Applicable
+EVT0053_01,CASE0053,Walk-in Registered,2026-10-11 18:07:00,Front Desk,,PAT0053,21-40,Completed,Registered,3,Not Applicable
+EVT0053_02,CASE0053,Triage Started,2026-10-11 18:40:00,Triage,,PAT0053,21-40,Completed,Triage Started,3,Not Applicable
+EVT0053_03,CASE0053,Triage Completed,2026-10-11 19:02:00,Triage,,PAT0053,21-40,Completed,Triage Completed,3,Not Applicable
+EVT0053_04,CASE0053,Assigned to Waiting Area,2026-10-11 19:19:00,Emergency,,PAT0053,21-40,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0053_05,CASE0053,First Physician Contact,2026-10-11 19:48:00,Emergency,DOC001,PAT0053,21-40,Completed,Physician Assessment Started,3,Not Applicable
+EVT0053_06,CASE0053,Treatment Started,2026-10-11 20:10:00,Treatment Room,DOC004,PAT0053,21-40,Completed,Treatment Started,3,Not Applicable
+EVT0053_07,CASE0053,Treatment Completed,2026-10-11 20:48:00,Treatment Room,DOC005,PAT0053,21-40,Completed,Treatment Completed,3,Not Applicable
+EVT0053_08,CASE0053,Discharge Order Placed,2026-10-11 21:20:00,Emergency,,PAT0053,21-40,Completed,Discharge Approved,3,Not Applicable
+EVT0053_09,CASE0053,Physical Exit,2026-10-11 21:32:00,Exit,,PAT0053,21-40,Completed,Patient Exited,3,Not Applicable
+EVT0054_01,CASE0054,Walk-in Registered,2026-10-12 11:55:00,Front Desk,,PAT0054,41-60,Completed,Registered,4,Not Applicable
+EVT0054_02,CASE0054,Triage Started,2026-10-12 12:12:00,Triage,,PAT0054,41-60,Completed,Triage Started,4,Not Applicable
+EVT0054_03,CASE0054,Triage Completed,2026-10-12 12:50:00,Triage,,PAT0054,41-60,Completed,Triage Completed,4,Not Applicable
+EVT0054_04,CASE0054,Assigned to Waiting Area,2026-10-12 13:13:00,Emergency,,PAT0054,41-60,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0054_05,CASE0054,First Physician Contact,2026-10-12 13:34:00,Emergency,DOC006,PAT0054,41-60,Completed,Physician Assessment Started,4,Not Applicable
+EVT0054_06,CASE0054,Lab Order Placed,2026-10-12 14:09:00,Emergency,,PAT0054,41-60,Completed,Lab Order Created,4,Not Applicable
+EVT0054_07,CASE0054,Lab Results Returned,2026-10-12 14:36:00,Laboratory,,PAT0054,41-60,Completed,Lab Results Available,4,Not Applicable
+EVT0054_08,CASE0054,Treatment Started,2026-10-12 15:43:00,Treatment Room,DOC007,PAT0054,41-60,Completed,Treatment Started,4,Not Applicable
+EVT0054_09,CASE0054,Treatment Completed,2026-10-12 16:12:00,Treatment Room,DOC007,PAT0054,41-60,Completed,Treatment Completed,4,Not Applicable
+EVT0054_10,CASE0054,Discharge Order Placed,2026-10-12 16:34:00,Emergency,,PAT0054,41-60,Completed,Discharge Approved,4,Not Applicable
+EVT0054_11,CASE0054,Physical Exit,2026-10-12 16:48:00,Exit,,PAT0054,41-60,Completed,Patient Exited,4,Not Applicable
+EVT0055_01,CASE0055,Walk-in Registered,2026-10-06 09:30:00,Front Desk,,PAT0055,61+,Completed,Registered,4,Not Applicable
+EVT0055_02,CASE0055,Triage Started,2026-10-06 10:13:00,Triage,,PAT0055,61+,Completed,Triage Started,4,Not Applicable
+EVT0055_03,CASE0055,Triage Completed,2026-10-06 10:28:00,Triage,,PAT0055,61+,Completed,Triage Completed,4,Not Applicable
+EVT0055_04,CASE0055,Assigned to Waiting Area,2026-10-06 11:02:00,Emergency,,PAT0055,61+,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0055_05,CASE0055,First Physician Contact,2026-10-06 11:28:00,Emergency,DOC007,PAT0055,61+,Completed,Physician Assessment Started,4,Not Applicable
+EVT0055_06,CASE0055,Treatment Started,2026-10-06 12:12:00,Treatment Room,DOC006,PAT0055,61+,Completed,Treatment Started,4,Not Applicable
+EVT0055_07,CASE0055,Treatment Completed,2026-10-06 12:33:00,Treatment Room,DOC003,PAT0055,61+,Completed,Treatment Completed,4,Not Applicable
+EVT0055_08,CASE0055,Discharge Order Placed,2026-10-06 13:11:00,Emergency,,PAT0055,61+,Completed,Discharge Approved,4,Not Applicable
+EVT0055_09,CASE0055,Physical Exit,2026-10-06 13:42:00,Exit,,PAT0055,61+,Completed,Patient Exited,4,Not Applicable
+EVT0056_01,CASE0056,Walk-in Registered,2026-10-06 19:00:00,Front Desk,,PAT0056,61+,Completed,Registered,5,Not Applicable
+EVT0056_02,CASE0056,Triage Started,2026-10-06 19:19:00,Triage,,PAT0056,61+,Completed,Triage Started,5,Not Applicable
+EVT0056_03,CASE0056,Triage Completed,2026-10-06 19:31:00,Triage,,PAT0056,61+,Completed,Triage Completed,5,Not Applicable
+EVT0056_04,CASE0056,Assigned to Waiting Area,2026-10-06 19:51:00,Emergency,,PAT0056,61+,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0056_05,CASE0056,First Physician Contact,2026-10-06 20:18:00,Emergency,DOC002,PAT0056,61+,Completed,Physician Assessment Started,5,Not Applicable
+EVT0056_06,CASE0056,Lab Order Placed,2026-10-06 20:42:00,Emergency,,PAT0056,61+,Completed,Lab Order Created,5,Not Applicable
+EVT0056_07,CASE0056,Lab Results Returned,2026-10-06 21:05:00,Laboratory,,PAT0056,61+,Completed,Lab Results Available,5,Not Applicable
+EVT0056_08,CASE0056,Treatment Started,2026-10-06 22:25:00,Treatment Room,DOC008,PAT0056,61+,Completed,Treatment Started,5,Not Applicable
+EVT0056_09,CASE0056,Treatment Completed,2026-10-06 23:05:00,Treatment Room,DOC006,PAT0056,61+,Completed,Treatment Completed,5,Not Applicable
+EVT0056_10,CASE0056,Discharge Order Placed,2026-10-06 23:44:00,Emergency,,PAT0056,61+,Completed,Discharge Approved,5,Not Applicable
+EVT0056_11,CASE0056,Physical Exit,2026-10-06 23:56:00,Exit,,PAT0056,61+,Completed,Patient Exited,5,Not Applicable
+EVT0057_01,CASE0057,Ambulance Arrived,2026-10-09 09:15:00,Emergency,,PAT0057,21-40,Completed,Ambulance Arrival Recorded,4,Unavailable
+EVT0057_02,CASE0057,Triage Started,2026-10-09 09:38:00,Triage,,PAT0057,21-40,Completed,Triage Started,4,Unavailable
+EVT0057_03,CASE0057,Triage Completed,2026-10-09 09:50:00,Triage,,PAT0057,21-40,Completed,Triage Completed,4,Unavailable
+EVT0057_04,CASE0057,Assigned to ER Bed,2026-10-09 10:11:00,Emergency,,PAT0057,21-40,Completed,ER Bed Assigned,4,Unavailable
+EVT0057_05,CASE0057,First Physician Contact,2026-10-09 10:27:00,Emergency,DOC007,PAT0057,21-40,Completed,Physician Assessment Started,4,Unavailable
+EVT0057_06,CASE0057,Lab Order Placed,2026-10-09 10:58:00,Emergency,,PAT0057,21-40,Completed,Lab Order Created,4,Unavailable
+EVT0057_07,CASE0057,Lab Results Returned,2026-10-09 11:18:00,Laboratory,,PAT0057,21-40,Completed,Lab Results Available,4,Unavailable
+EVT0057_08,CASE0057,Treatment Started,2026-10-09 12:34:00,Treatment Room,DOC006,PAT0057,21-40,Completed,Treatment Started,4,Unavailable
+EVT0057_09,CASE0057,Treatment Completed,2026-10-09 13:06:00,Treatment Room,DOC003,PAT0057,21-40,Completed,Treatment Completed,4,Unavailable
+EVT0057_10,CASE0057,Inpatient Bed Requested,2026-10-09 14:21:00,Bed Management,,PAT0057,21-40,Pending,Inpatient Bed Requested,4,Unavailable
+EVT0057_11,CASE0057,Transfer Completed,2026-10-09 14:42:00,Inpatient Ward,,PAT0057,21-40,Completed,Transferred to Inpatient Ward,4,Unavailable
+EVT0058_01,CASE0058,Walk-in Registered,2026-10-11 10:56:00,Front Desk,,PAT0058,21-40,Completed,Registered,2,Not Applicable
+EVT0058_02,CASE0058,Triage Started,2026-10-11 11:13:00,Triage,,PAT0058,21-40,Completed,Triage Started,2,Not Applicable
+EVT0058_03,CASE0058,Triage Completed,2026-10-11 11:40:00,Triage,,PAT0058,21-40,Completed,Triage Completed,2,Not Applicable
+EVT0058_04,CASE0058,Assigned to Waiting Area,2026-10-11 12:13:00,Emergency,,PAT0058,21-40,Completed,Waiting Area Assigned,2,Not Applicable
+EVT0058_05,CASE0058,First Physician Contact,2026-10-11 12:43:00,Emergency,DOC006,PAT0058,21-40,Completed,Physician Assessment Started,2,Not Applicable
+EVT0058_06,CASE0058,Imaging Order Placed,2026-10-11 13:14:00,Emergency,,PAT0058,21-40,Completed,Imaging Order Created,2,Not Applicable
+EVT0058_07,CASE0058,Imaging Results Returned,2026-10-11 13:34:00,Radiology,,PAT0058,21-40,Completed,Paperwork Missing - Rework Required,2,Not Applicable
+EVT0058_08,CASE0058,Triage Started,2026-10-11 14:44:00,Triage,,PAT0058,21-40,Completed,Triage Repeated After Paperwork Issue,2,Not Applicable
+EVT0058_09,CASE0058,Triage Completed,2026-10-11 15:15:00,Triage,,PAT0058,21-40,Completed,Reassessment Completed,2,Not Applicable
+EVT0058_10,CASE0058,First Physician Contact,2026-10-11 16:10:00,Emergency,DOC002,PAT0058,21-40,Completed,Repeat Physician Review,2,Not Applicable
+EVT0058_11,CASE0058,Treatment Started,2026-10-11 16:45:00,Treatment Room,DOC007,PAT0058,21-40,Completed,Treatment Started,2,Not Applicable
+EVT0058_12,CASE0058,Treatment Completed,2026-10-11 17:05:00,Treatment Room,DOC003,PAT0058,21-40,Completed,Treatment Completed,2,Not Applicable
+EVT0058_13,CASE0058,Discharge Order Placed,2026-10-11 17:46:00,Emergency,,PAT0058,21-40,Completed,Discharge Approved,2,Not Applicable
+EVT0058_14,CASE0058,Physical Exit,2026-10-11 18:11:00,Exit,,PAT0058,21-40,Completed,Patient Exited,2,Not Applicable
+EVT0059_01,CASE0059,Ambulance Arrived,2026-10-11 14:41:00,Emergency,,PAT0059,21-40,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0059_02,CASE0059,Triage Started,2026-10-11 15:08:00,Triage,,PAT0059,21-40,Completed,Triage Started,4,Not Applicable
+EVT0059_03,CASE0059,Triage Completed,2026-10-11 15:51:00,Triage,,PAT0059,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0059_04,CASE0059,Assigned to ER Bed,2026-10-11 16:11:00,Emergency,,PAT0059,21-40,Completed,ER Bed Assigned,4,Not Applicable
+EVT0059_05,CASE0059,First Physician Contact,2026-10-11 16:41:00,Emergency,DOC003,PAT0059,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0059_06,CASE0059,Imaging Order Placed,2026-10-11 17:27:00,Emergency,,PAT0059,21-40,Completed,Imaging Order Created,4,Not Applicable
+EVT0059_07,CASE0059,Imaging Results Returned,2026-10-11 17:53:00,Radiology,,PAT0059,21-40,Completed,Imaging Results Available,4,Not Applicable
+EVT0059_08,CASE0059,Treatment Started,2026-10-11 19:08:00,Treatment Room,DOC006,PAT0059,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0059_09,CASE0059,Treatment Completed,2026-10-11 19:26:00,Treatment Room,DOC005,PAT0059,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0059_10,CASE0059,Discharge Order Placed,2026-10-11 20:09:00,Emergency,,PAT0059,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0059_11,CASE0059,Physical Exit,2026-10-11 20:27:00,Exit,,PAT0059,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0060_01,CASE0060,Walk-in Registered,2026-10-02 13:02:00,Front Desk,,PAT0060,13-20,Completed,Registered,3,Not Applicable
+EVT0060_02,CASE0060,Triage Started,2026-10-02 13:29:00,Triage,,PAT0060,13-20,Completed,Triage Started,3,Not Applicable
+EVT0060_03,CASE0060,Triage Completed,2026-10-02 14:07:00,Triage,,PAT0060,13-20,Completed,Triage Completed,3,Not Applicable
+EVT0060_04,CASE0060,Assigned to Waiting Area,2026-10-02 14:38:00,Emergency,,PAT0060,13-20,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0060_05,CASE0060,First Physician Contact,2026-10-02 15:15:00,Emergency,DOC007,PAT0060,13-20,Completed,Physician Assessment Started,3,Not Applicable
+EVT0060_06,CASE0060,Lab Order Placed,2026-10-02 15:38:00,Emergency,,PAT0060,13-20,Completed,Lab Order Created,3,Not Applicable
+EVT0060_07,CASE0060,Lab Results Returned,2026-10-02 15:50:00,Laboratory,,PAT0060,13-20,Completed,Lab Results Available,3,Not Applicable
+EVT0060_08,CASE0060,Treatment Started,2026-10-02 17:18:00,Treatment Room,DOC003,PAT0060,13-20,Completed,Treatment Started,3,Not Applicable
+EVT0060_09,CASE0060,Treatment Completed,2026-10-02 18:00:00,Treatment Room,DOC001,PAT0060,13-20,Completed,Treatment Completed,3,Not Applicable
+EVT0060_10,CASE0060,Discharge Order Placed,2026-10-02 18:56:00,Emergency,,PAT0060,13-20,Completed,Discharge Approved,3,Not Applicable
+EVT0060_11,CASE0060,Physical Exit,2026-10-02 19:26:00,Exit,,PAT0060,13-20,Completed,Patient Exited,3,Not Applicable
+EVT0061_01,CASE0061,Walk-in Registered,2026-10-13 15:39:00,Front Desk,,PAT0061,41-60,Completed,Registered,5,Not Applicable
+EVT0061_02,CASE0061,Triage Started,2026-10-13 16:09:00,Triage,,PAT0061,41-60,Completed,Triage Started,5,Not Applicable
+EVT0061_03,CASE0061,Triage Completed,2026-10-13 16:27:00,Triage,,PAT0061,41-60,Completed,Triage Completed,5,Not Applicable
+EVT0061_04,CASE0061,Assigned to Waiting Area,2026-10-13 17:12:00,Emergency,,PAT0061,41-60,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0061_05,CASE0061,First Physician Contact,2026-10-13 17:31:00,Emergency,DOC008,PAT0061,41-60,Completed,Physician Assessment Started,5,Not Applicable
+EVT0061_06,CASE0061,Lab Order Placed,2026-10-13 18:11:00,Emergency,,PAT0061,41-60,Completed,Lab Order Created,5,Not Applicable
+EVT0061_07,CASE0061,Lab Results Returned,2026-10-13 18:43:00,Laboratory,,PAT0061,41-60,Completed,Lab Results Available,5,Not Applicable
+EVT0061_08,CASE0061,Imaging Order Placed,2026-10-13 19:43:00,Emergency,,PAT0061,41-60,Completed,Imaging Order Created,5,Not Applicable
+EVT0061_09,CASE0061,Imaging Results Returned,2026-10-13 20:22:00,Radiology,,PAT0061,41-60,Completed,Imaging Results Available,5,Not Applicable
+EVT0061_10,CASE0061,Treatment Started,2026-10-13 21:18:00,Treatment Room,DOC003,PAT0061,41-60,Completed,Treatment Started,5,Not Applicable
+EVT0061_11,CASE0061,Treatment Completed,2026-10-13 21:58:00,Treatment Room,DOC001,PAT0061,41-60,Completed,Treatment Completed,5,Not Applicable
+EVT0061_12,CASE0061,Discharge Order Placed,2026-10-13 22:49:00,Emergency,,PAT0061,41-60,Completed,Discharge Approved,5,Not Applicable
+EVT0061_13,CASE0061,Physical Exit,2026-10-13 23:26:00,Exit,,PAT0061,41-60,Completed,Patient Exited,5,Not Applicable
+EVT0062_01,CASE0062,Walk-in Registered,2026-10-02 12:51:00,Front Desk,,PAT0062,0-12,Completed,Registered,4,Not Applicable
+EVT0062_02,CASE0062,Triage Started,2026-10-02 13:26:00,Triage,,PAT0062,0-12,Completed,Triage Started,4,Not Applicable
+EVT0062_03,CASE0062,Triage Completed,2026-10-02 13:43:00,Triage,,PAT0062,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0062_04,CASE0062,Assigned to Waiting Area,2026-10-02 14:28:00,Emergency,,PAT0062,0-12,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0062_05,CASE0062,First Physician Contact,2026-10-02 14:43:00,Emergency,DOC002,PAT0062,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0062_06,CASE0062,Lab Order Placed,2026-10-02 15:41:00,Emergency,,PAT0062,0-12,Completed,Lab Order Created,4,Not Applicable
+EVT0062_07,CASE0062,Lab Results Returned,2026-10-02 16:14:00,Laboratory,,PAT0062,0-12,Completed,Lab Results Available,4,Not Applicable
+EVT0062_08,CASE0062,Imaging Order Placed,2026-10-02 17:30:00,Emergency,,PAT0062,0-12,Completed,Imaging Order Created,4,Not Applicable
+EVT0062_09,CASE0062,Imaging Results Returned,2026-10-02 18:07:00,Radiology,,PAT0062,0-12,Completed,Imaging Results Available,4,Not Applicable
+EVT0062_10,CASE0062,Treatment Started,2026-10-02 18:41:00,Treatment Room,DOC007,PAT0062,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0062_11,CASE0062,Treatment Completed,2026-10-02 19:07:00,Treatment Room,DOC004,PAT0062,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0062_12,CASE0062,Discharge Order Placed,2026-10-02 19:57:00,Emergency,,PAT0062,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0062_13,CASE0062,Physical Exit,2026-10-02 20:15:00,Exit,,PAT0062,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0063_01,CASE0063,Walk-in Registered,2026-10-11 13:43:00,Front Desk,,PAT0063,21-40,Completed,Registered,5,Not Applicable
+EVT0063_02,CASE0063,Triage Started,2026-10-11 13:59:00,Triage,,PAT0063,21-40,Completed,Triage Started,5,Not Applicable
+EVT0063_03,CASE0063,Triage Completed,2026-10-11 14:16:00,Triage,,PAT0063,21-40,Completed,Triage Completed,5,Not Applicable
+EVT0063_04,CASE0063,Assigned to Waiting Area,2026-10-11 14:55:00,Emergency,,PAT0063,21-40,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0063_05,CASE0063,First Physician Contact,2026-10-11 15:12:00,Emergency,DOC008,PAT0063,21-40,Completed,Physician Assessment Started,5,Not Applicable
+EVT0063_06,CASE0063,Imaging Order Placed,2026-10-11 16:01:00,Emergency,,PAT0063,21-40,Completed,Imaging Order Created,5,Not Applicable
+EVT0063_07,CASE0063,Imaging Results Returned,2026-10-11 16:35:00,Radiology,,PAT0063,21-40,Completed,Paperwork Missing - Rework Required,5,Not Applicable
+EVT0063_08,CASE0063,Triage Started,2026-10-11 17:00:00,Triage,,PAT0063,21-40,Completed,Triage Repeated After Paperwork Issue,5,Not Applicable
+EVT0063_09,CASE0063,Triage Completed,2026-10-11 17:16:00,Triage,,PAT0063,21-40,Completed,Reassessment Completed,5,Not Applicable
+EVT0063_10,CASE0063,First Physician Contact,2026-10-11 18:05:00,Emergency,DOC002,PAT0063,21-40,Completed,Repeat Physician Review,5,Not Applicable
+EVT0063_11,CASE0063,Treatment Started,2026-10-11 18:57:00,Treatment Room,DOC004,PAT0063,21-40,Completed,Treatment Started,5,Not Applicable
+EVT0063_12,CASE0063,Treatment Completed,2026-10-11 19:20:00,Treatment Room,DOC001,PAT0063,21-40,Completed,Treatment Completed,5,Not Applicable
+EVT0063_13,CASE0063,Discharge Order Placed,2026-10-11 19:49:00,Emergency,,PAT0063,21-40,Completed,Discharge Approved,5,Not Applicable
+EVT0063_14,CASE0063,Physical Exit,2026-10-11 20:19:00,Exit,,PAT0063,21-40,Completed,Patient Exited,5,Not Applicable
+EVT0064_01,CASE0064,Walk-in Registered,2026-10-08 18:11:00,Front Desk,,PAT0064,41-60,Completed,Registered,5,Not Applicable
+EVT0064_02,CASE0064,Triage Started,2026-10-08 18:41:00,Triage,,PAT0064,41-60,Completed,Triage Started,5,Not Applicable
+EVT0064_03,CASE0064,Triage Completed,2026-10-08 19:11:00,Triage,,PAT0064,41-60,Completed,Triage Completed,5,Not Applicable
+EVT0064_04,CASE0064,Assigned to Waiting Area,2026-10-08 19:46:00,Emergency,,PAT0064,41-60,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0064_05,CASE0064,First Physician Contact,2026-10-08 20:03:00,Emergency,DOC001,PAT0064,41-60,Completed,Physician Assessment Started,5,Not Applicable
+EVT0064_06,CASE0064,Lab Order Placed,2026-10-08 20:50:00,Emergency,,PAT0064,41-60,Completed,Lab Order Created,5,Not Applicable
+EVT0064_07,CASE0064,Lab Results Returned,2026-10-08 21:05:00,Laboratory,,PAT0064,41-60,Completed,Lab Results Available,5,Not Applicable
+EVT0064_08,CASE0064,Treatment Started,2026-10-08 22:14:00,Treatment Room,DOC002,PAT0064,41-60,Completed,Treatment Started,5,Not Applicable
+EVT0064_09,CASE0064,Treatment Completed,2026-10-08 22:42:00,Treatment Room,DOC002,PAT0064,41-60,Completed,Treatment Completed,5,Not Applicable
+EVT0064_10,CASE0064,Discharge Order Placed,2026-10-08 23:50:00,Emergency,,PAT0064,41-60,Completed,Discharge Approved,5,Not Applicable
+EVT0064_11,CASE0064,Physical Exit,2026-10-09 00:18:00,Exit,,PAT0064,41-60,Completed,Patient Exited,5,Not Applicable
+EVT0065_01,CASE0065,Walk-in Registered,2026-10-08 08:44:00,Front Desk,,PAT0065,61+,Completed,Registered,4,Not Applicable
+EVT0065_02,CASE0065,Triage Started,2026-10-08 09:11:00,Triage,,PAT0065,61+,Completed,Triage Started,4,Not Applicable
+EVT0065_03,CASE0065,Triage Completed,2026-10-08 09:44:00,Triage,,PAT0065,61+,Completed,Triage Completed,4,Not Applicable
+EVT0065_04,CASE0065,Assigned to Waiting Area,2026-10-08 10:05:00,Emergency,,PAT0065,61+,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0065_05,CASE0065,First Physician Contact,2026-10-08 10:20:00,Emergency,DOC004,PAT0065,61+,Completed,Physician Assessment Started,4,Not Applicable
+EVT0065_06,CASE0065,Treatment Started,2026-10-08 11:09:00,Treatment Room,DOC002,PAT0065,61+,Completed,Treatment Started,4,Not Applicable
+EVT0065_07,CASE0065,Treatment Completed,2026-10-08 11:53:00,Treatment Room,DOC003,PAT0065,61+,Completed,Treatment Completed,4,Not Applicable
+EVT0065_08,CASE0065,Discharge Order Placed,2026-10-08 12:30:00,Emergency,,PAT0065,61+,Completed,Discharge Approved,4,Not Applicable
+EVT0065_09,CASE0065,Physical Exit,2026-10-08 12:56:00,Exit,,PAT0065,61+,Completed,Patient Exited,4,Not Applicable
+EVT0066_01,CASE0066,Walk-in Registered,2026-10-12 16:10:00,Front Desk,,PAT0066,13-20,Completed,Registered,4,Not Applicable
+EVT0066_02,CASE0066,Triage Started,2026-10-12 16:47:00,Triage,,PAT0066,13-20,Completed,Triage Started,4,Not Applicable
+EVT0066_03,CASE0066,Triage Completed,2026-10-12 16:58:00,Triage,,PAT0066,13-20,Completed,Triage Completed,4,Not Applicable
+EVT0066_04,CASE0066,Assigned to Waiting Area,2026-10-12 17:16:00,Emergency,,PAT0066,13-20,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0066_05,CASE0066,First Physician Contact,2026-10-12 17:31:00,Emergency,DOC004,PAT0066,13-20,Completed,Physician Assessment Started,4,Not Applicable
+EVT0066_06,CASE0066,Imaging Order Placed,2026-10-12 18:15:00,Emergency,,PAT0066,13-20,Completed,Imaging Order Created,4,Not Applicable
+EVT0066_07,CASE0066,Imaging Results Returned,2026-10-12 18:31:00,Radiology,,PAT0066,13-20,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0066_08,CASE0066,Triage Started,2026-10-12 19:26:00,Triage,,PAT0066,13-20,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0066_09,CASE0066,Triage Completed,2026-10-12 20:03:00,Triage,,PAT0066,13-20,Completed,Reassessment Completed,4,Not Applicable
+EVT0066_10,CASE0066,First Physician Contact,2026-10-12 20:48:00,Emergency,DOC004,PAT0066,13-20,Completed,Repeat Physician Review,4,Not Applicable
+EVT0066_11,CASE0066,Treatment Started,2026-10-12 21:13:00,Treatment Room,DOC001,PAT0066,13-20,Completed,Treatment Started,4,Not Applicable
+EVT0066_12,CASE0066,Treatment Completed,2026-10-12 21:55:00,Treatment Room,DOC005,PAT0066,13-20,Completed,Treatment Completed,4,Not Applicable
+EVT0066_13,CASE0066,Discharge Order Placed,2026-10-12 22:34:00,Emergency,,PAT0066,13-20,Completed,Discharge Approved,4,Not Applicable
+EVT0066_14,CASE0066,Physical Exit,2026-10-12 22:56:00,Exit,,PAT0066,13-20,Completed,Patient Exited,4,Not Applicable
+EVT0067_01,CASE0067,Walk-in Registered,2026-10-03 16:28:00,Front Desk,,PAT0067,41-60,Completed,Registered,4,Not Applicable
+EVT0067_02,CASE0067,Triage Started,2026-10-03 16:56:00,Triage,,PAT0067,41-60,Completed,Triage Started,4,Not Applicable
+EVT0067_03,CASE0067,Triage Completed,2026-10-03 17:16:00,Triage,,PAT0067,41-60,Completed,Triage Completed,4,Not Applicable
+EVT0067_04,CASE0067,Assigned to Waiting Area,2026-10-03 17:50:00,Emergency,,PAT0067,41-60,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0067_05,CASE0067,First Physician Contact,2026-10-03 18:02:00,Emergency,DOC003,PAT0067,41-60,Completed,Physician Assessment Started,4,Not Applicable
+EVT0067_06,CASE0067,Imaging Order Placed,2026-10-03 18:47:00,Emergency,,PAT0067,41-60,Completed,Imaging Order Created,4,Not Applicable
+EVT0067_07,CASE0067,Imaging Results Returned,2026-10-03 19:05:00,Radiology,,PAT0067,41-60,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0067_08,CASE0067,Triage Started,2026-10-03 19:33:00,Triage,,PAT0067,41-60,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0067_09,CASE0067,Triage Completed,2026-10-03 20:04:00,Triage,,PAT0067,41-60,Completed,Reassessment Completed,4,Not Applicable
+EVT0067_10,CASE0067,First Physician Contact,2026-10-03 20:47:00,Emergency,DOC007,PAT0067,41-60,Completed,Repeat Physician Review,4,Not Applicable
+EVT0067_11,CASE0067,Treatment Started,2026-10-03 21:21:00,Treatment Room,DOC006,PAT0067,41-60,Completed,Treatment Started,4,Not Applicable
+EVT0067_12,CASE0067,Treatment Completed,2026-10-03 21:52:00,Treatment Room,DOC006,PAT0067,41-60,Completed,Treatment Completed,4,Not Applicable
+EVT0067_13,CASE0067,Discharge Order Placed,2026-10-03 22:28:00,Emergency,,PAT0067,41-60,Completed,Discharge Approved,4,Not Applicable
+EVT0067_14,CASE0067,Physical Exit,2026-10-03 22:46:00,Exit,,PAT0067,41-60,Completed,Patient Exited,4,Not Applicable
+EVT0068_01,CASE0068,Walk-in Registered,2026-10-06 16:45:00,Front Desk,,PAT0068,0-12,Completed,Registered,4,Not Applicable
+EVT0068_02,CASE0068,Triage Started,2026-10-06 17:27:00,Triage,,PAT0068,0-12,Completed,Triage Started,4,Not Applicable
+EVT0068_03,CASE0068,Triage Completed,2026-10-06 17:39:00,Triage,,PAT0068,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0068_04,CASE0068,Assigned to Waiting Area,2026-10-06 17:57:00,Emergency,,PAT0068,0-12,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0068_05,CASE0068,First Physician Contact,2026-10-06 18:07:00,Emergency,DOC006,PAT0068,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0068_06,CASE0068,Lab Order Placed,2026-10-06 18:40:00,Emergency,,PAT0068,0-12,Completed,Lab Order Created,4,Not Applicable
+EVT0068_07,CASE0068,Lab Results Returned,2026-10-06 19:19:00,Laboratory,,PAT0068,0-12,Completed,Lab Results Available,4,Not Applicable
+EVT0068_08,CASE0068,Treatment Started,2026-10-06 20:16:00,Treatment Room,DOC003,PAT0068,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0068_09,CASE0068,Treatment Completed,2026-10-06 20:56:00,Treatment Room,DOC006,PAT0068,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0068_10,CASE0068,Discharge Order Placed,2026-10-06 21:50:00,Emergency,,PAT0068,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0068_11,CASE0068,Physical Exit,2026-10-06 22:24:00,Exit,,PAT0068,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0069_01,CASE0069,Walk-in Registered,2026-10-11 12:45:00,Front Desk,,PAT0069,13-20,Completed,Registered,4,Not Applicable
+EVT0069_02,CASE0069,Triage Started,2026-10-11 13:28:00,Triage,,PAT0069,13-20,Completed,Triage Started,4,Not Applicable
+EVT0069_03,CASE0069,Triage Completed,2026-10-11 13:36:00,Triage,,PAT0069,13-20,Completed,Triage Completed,4,Not Applicable
+EVT0069_04,CASE0069,Assigned to Waiting Area,2026-10-11 14:03:00,Emergency,,PAT0069,13-20,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0069_05,CASE0069,First Physician Contact,2026-10-11 14:26:00,Emergency,DOC005,PAT0069,13-20,Completed,Physician Assessment Started,4,Not Applicable
+EVT0069_06,CASE0069,Treatment Started,2026-10-11 15:08:00,Treatment Room,DOC008,PAT0069,13-20,Completed,Treatment Started,4,Not Applicable
+EVT0069_07,CASE0069,Treatment Completed,2026-10-11 15:28:00,Treatment Room,DOC008,PAT0069,13-20,Completed,Treatment Completed,4,Not Applicable
+EVT0069_08,CASE0069,Discharge Order Placed,2026-10-11 16:07:00,Emergency,,PAT0069,13-20,Completed,Discharge Approved,4,Not Applicable
+EVT0069_09,CASE0069,Physical Exit,2026-10-11 16:18:00,Exit,,PAT0069,13-20,Completed,Patient Exited,4,Not Applicable
+EVT0070_01,CASE0070,Walk-in Registered,2026-10-02 19:38:00,Front Desk,,PAT0070,41-60,Completed,Registered,5,Not Applicable
+EVT0070_02,CASE0070,Triage Started,2026-10-02 20:14:00,Triage,,PAT0070,41-60,Completed,Triage Started,5,Not Applicable
+EVT0070_03,CASE0070,Triage Completed,2026-10-02 20:46:00,Triage,,PAT0070,41-60,Completed,Triage Completed,5,Not Applicable
+EVT0070_04,CASE0070,Assigned to Waiting Area,2026-10-02 21:14:00,Emergency,,PAT0070,41-60,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0070_05,CASE0070,First Physician Contact,2026-10-02 21:34:00,Emergency,DOC003,PAT0070,41-60,Completed,Physician Assessment Started,5,Not Applicable
+EVT0070_06,CASE0070,Lab Order Placed,2026-10-02 22:20:00,Emergency,,PAT0070,41-60,Completed,Lab Order Created,5,Not Applicable
+EVT0070_07,CASE0070,Lab Results Returned,2026-10-02 22:52:00,Laboratory,,PAT0070,41-60,Completed,Lab Results Available,5,Not Applicable
+EVT0070_08,CASE0070,Treatment Started,2026-10-02 23:51:00,Treatment Room,DOC002,PAT0070,41-60,Completed,Treatment Started,5,Not Applicable
+EVT0070_09,CASE0070,Treatment Completed,2026-10-03 00:10:00,Treatment Room,DOC004,PAT0070,41-60,Completed,Treatment Completed,5,Not Applicable
+EVT0070_10,CASE0070,Discharge Order Placed,2026-10-03 00:58:00,Emergency,,PAT0070,41-60,Completed,Discharge Approved,5,Not Applicable
+EVT0070_11,CASE0070,Physical Exit,2026-10-03 01:08:00,Exit,,PAT0070,41-60,Completed,Patient Exited,5,Not Applicable
+EVT0071_01,CASE0071,Ambulance Arrived,2026-10-09 10:12:00,Emergency,,PAT0071,61+,Completed,Ambulance Arrival Recorded,5,Not Applicable
+EVT0071_02,CASE0071,Triage Started,2026-10-09 10:51:00,Triage,,PAT0071,61+,Completed,Triage Started,5,Not Applicable
+EVT0071_03,CASE0071,Triage Completed,2026-10-09 11:01:00,Triage,,PAT0071,61+,Completed,Triage Completed,5,Not Applicable
+EVT0071_04,CASE0071,Assigned to ER Bed,2026-10-09 11:27:00,Emergency,,PAT0071,61+,Completed,ER Bed Assigned,5,Not Applicable
+EVT0071_05,CASE0071,First Physician Contact,2026-10-09 12:00:00,Emergency,DOC007,PAT0071,61+,Completed,Physician Assessment Started,5,Not Applicable
+EVT0071_06,CASE0071,Imaging Order Placed,2026-10-09 12:54:00,Emergency,,PAT0071,61+,Completed,Imaging Order Created,5,Not Applicable
+EVT0071_07,CASE0071,Imaging Results Returned,2026-10-09 13:04:00,Radiology,,PAT0071,61+,Completed,Imaging Results Available,5,Not Applicable
+EVT0071_08,CASE0071,Treatment Started,2026-10-09 14:04:00,Treatment Room,DOC008,PAT0071,61+,Completed,Treatment Started,5,Not Applicable
+EVT0071_09,CASE0071,Treatment Completed,2026-10-09 14:29:00,Treatment Room,DOC006,PAT0071,61+,Completed,Treatment Completed,5,Not Applicable
+EVT0071_10,CASE0071,Discharge Order Placed,2026-10-09 15:21:00,Emergency,,PAT0071,61+,Completed,Discharge Approved,5,Not Applicable
+EVT0071_11,CASE0071,Physical Exit,2026-10-09 15:52:00,Exit,,PAT0071,61+,Completed,Patient Exited,5,Not Applicable
+EVT0072_01,CASE0072,Walk-in Registered,2026-10-01 10:07:00,Front Desk,,PAT0072,13-20,Completed,Registered,5,Not Applicable
+EVT0072_02,CASE0072,Triage Started,2026-10-01 10:28:00,Triage,,PAT0072,13-20,Completed,Triage Started,5,Not Applicable
+EVT0072_03,CASE0072,Triage Completed,2026-10-01 10:42:00,Triage,,PAT0072,13-20,Completed,Triage Completed,5,Not Applicable
+EVT0072_04,CASE0072,Assigned to Waiting Area,2026-10-01 11:26:00,Emergency,,PAT0072,13-20,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0072_05,CASE0072,First Physician Contact,2026-10-01 11:45:00,Emergency,DOC005,PAT0072,13-20,Completed,Physician Assessment Started,5,Not Applicable
+EVT0072_06,CASE0072,Treatment Started,2026-10-01 12:38:00,Treatment Room,DOC005,PAT0072,13-20,Completed,Treatment Started,5,Not Applicable
+EVT0072_07,CASE0072,Treatment Completed,2026-10-01 12:55:00,Treatment Room,DOC005,PAT0072,13-20,Completed,Treatment Completed,5,Not Applicable
+EVT0072_08,CASE0072,Discharge Order Placed,2026-10-01 13:49:00,Emergency,,PAT0072,13-20,Completed,Discharge Approved,5,Not Applicable
+EVT0072_09,CASE0072,Physical Exit,2026-10-01 14:17:00,Exit,,PAT0072,13-20,Completed,Patient Exited,5,Not Applicable
+EVT0073_01,CASE0073,Walk-in Registered,2026-10-10 10:37:00,Front Desk,,PAT0073,61+,Completed,Registered,4,Not Applicable
+EVT0073_02,CASE0073,Triage Started,2026-10-10 11:10:00,Triage,,PAT0073,61+,Completed,Triage Started,4,Not Applicable
+EVT0073_03,CASE0073,Triage Completed,2026-10-10 11:45:00,Triage,,PAT0073,61+,Completed,Triage Completed,4,Not Applicable
+EVT0073_04,CASE0073,Assigned to Waiting Area,2026-10-10 12:26:00,Emergency,,PAT0073,61+,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0073_05,CASE0073,First Physician Contact,2026-10-10 12:38:00,Emergency,DOC002,PAT0073,61+,Completed,Physician Assessment Started,4,Not Applicable
+EVT0073_06,CASE0073,Lab Order Placed,2026-10-10 12:54:00,Emergency,,PAT0073,61+,Completed,Lab Order Created,4,Not Applicable
+EVT0073_07,CASE0073,Lab Results Returned,2026-10-10 13:22:00,Laboratory,,PAT0073,61+,Completed,Lab Results Available,4,Not Applicable
+EVT0073_08,CASE0073,Imaging Order Placed,2026-10-10 14:19:00,Emergency,,PAT0073,61+,Completed,Imaging Order Created,4,Not Applicable
+EVT0073_09,CASE0073,Imaging Results Returned,2026-10-10 14:47:00,Radiology,,PAT0073,61+,Completed,Imaging Results Available,4,Not Applicable
+EVT0073_10,CASE0073,Treatment Started,2026-10-10 15:47:00,Treatment Room,DOC005,PAT0073,61+,Completed,Treatment Started,4,Not Applicable
+EVT0073_11,CASE0073,Treatment Completed,2026-10-10 16:24:00,Treatment Room,DOC008,PAT0073,61+,Completed,Treatment Completed,4,Not Applicable
+EVT0073_12,CASE0073,Discharge Order Placed,2026-10-10 17:05:00,Emergency,,PAT0073,61+,Completed,Discharge Approved,4,Not Applicable
+EVT0073_13,CASE0073,Physical Exit,2026-10-10 17:24:00,Exit,,PAT0073,61+,Completed,Patient Exited,4,Not Applicable
+EVT0074_01,CASE0074,Walk-in Registered,2026-10-08 11:28:00,Front Desk,,PAT0074,0-12,Completed,Registered,4,Not Applicable
+EVT0074_02,CASE0074,Triage Started,2026-10-08 12:02:00,Triage,,PAT0074,0-12,Completed,Triage Started,4,Not Applicable
+EVT0074_03,CASE0074,Triage Completed,2026-10-08 12:21:00,Triage,,PAT0074,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0074_04,CASE0074,Assigned to Waiting Area,2026-10-08 12:59:00,Emergency,,PAT0074,0-12,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0074_05,CASE0074,First Physician Contact,2026-10-08 13:23:00,Emergency,DOC003,PAT0074,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0074_06,CASE0074,Lab Order Placed,2026-10-08 14:14:00,Emergency,,PAT0074,0-12,Completed,Lab Order Created,4,Not Applicable
+EVT0074_07,CASE0074,Lab Results Returned,2026-10-08 14:38:00,Laboratory,,PAT0074,0-12,Completed,Lab Results Available,4,Not Applicable
+EVT0074_08,CASE0074,Treatment Started,2026-10-08 15:36:00,Treatment Room,DOC004,PAT0074,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0074_09,CASE0074,Treatment Completed,2026-10-08 16:05:00,Treatment Room,DOC005,PAT0074,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0074_10,CASE0074,Discharge Order Placed,2026-10-08 16:41:00,Emergency,,PAT0074,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0074_11,CASE0074,Physical Exit,2026-10-08 16:53:00,Exit,,PAT0074,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0075_01,CASE0075,Walk-in Registered,2026-10-07 12:14:00,Front Desk,,PAT0075,21-40,Completed,Registered,5,Not Applicable
+EVT0075_02,CASE0075,Triage Started,2026-10-07 12:52:00,Triage,,PAT0075,21-40,Completed,Triage Started,5,Not Applicable
+EVT0075_03,CASE0075,Triage Completed,2026-10-07 13:31:00,Triage,,PAT0075,21-40,Completed,Triage Completed,5,Not Applicable
+EVT0075_04,CASE0075,Assigned to Waiting Area,2026-10-07 13:52:00,Emergency,,PAT0075,21-40,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0075_05,CASE0075,First Physician Contact,2026-10-07 14:10:00,Emergency,DOC008,PAT0075,21-40,Completed,Physician Assessment Started,5,Not Applicable
+EVT0075_06,CASE0075,Imaging Order Placed,2026-10-07 14:55:00,Emergency,,PAT0075,21-40,Completed,Imaging Order Created,5,Not Applicable
+EVT0075_07,CASE0075,Imaging Results Returned,2026-10-07 15:18:00,Radiology,,PAT0075,21-40,Completed,Paperwork Missing - Rework Required,5,Not Applicable
+EVT0075_08,CASE0075,Triage Started,2026-10-07 15:41:00,Triage,,PAT0075,21-40,Completed,Triage Repeated After Paperwork Issue,5,Not Applicable
+EVT0075_09,CASE0075,Triage Completed,2026-10-07 16:08:00,Triage,,PAT0075,21-40,Completed,Reassessment Completed,5,Not Applicable
+EVT0075_10,CASE0075,First Physician Contact,2026-10-07 17:15:00,Emergency,DOC004,PAT0075,21-40,Completed,Repeat Physician Review,5,Not Applicable
+EVT0075_11,CASE0075,Treatment Started,2026-10-07 17:55:00,Treatment Room,DOC001,PAT0075,21-40,Completed,Treatment Started,5,Not Applicable
+EVT0075_12,CASE0075,Treatment Completed,2026-10-07 18:11:00,Treatment Room,DOC008,PAT0075,21-40,Completed,Treatment Completed,5,Not Applicable
+EVT0075_13,CASE0075,Discharge Order Placed,2026-10-07 19:03:00,Emergency,,PAT0075,21-40,Completed,Discharge Approved,5,Not Applicable
+EVT0075_14,CASE0075,Physical Exit,2026-10-07 19:22:00,Exit,,PAT0075,21-40,Completed,Patient Exited,5,Not Applicable
+EVT0076_01,CASE0076,Walk-in Registered,2026-10-12 14:14:00,Front Desk,,PAT0076,0-12,Completed,Registered,5,Not Applicable
+EVT0076_02,CASE0076,Triage Started,2026-10-12 14:41:00,Triage,,PAT0076,0-12,Completed,Triage Started,5,Not Applicable
+EVT0076_03,CASE0076,Triage Completed,2026-10-12 15:01:00,Triage,,PAT0076,0-12,Completed,Triage Completed,5,Not Applicable
+EVT0076_04,CASE0076,Assigned to Waiting Area,2026-10-12 15:29:00,Emergency,,PAT0076,0-12,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0076_05,CASE0076,First Physician Contact,2026-10-12 15:46:00,Emergency,DOC005,PAT0076,0-12,Completed,Physician Assessment Started,5,Not Applicable
+EVT0076_06,CASE0076,Treatment Started,2026-10-12 16:14:00,Treatment Room,DOC008,PAT0076,0-12,Completed,Treatment Started,5,Not Applicable
+EVT0076_07,CASE0076,Treatment Completed,2026-10-12 16:54:00,Treatment Room,DOC005,PAT0076,0-12,Completed,Treatment Completed,5,Not Applicable
+EVT0076_08,CASE0076,Discharge Order Placed,2026-10-12 18:10:00,Emergency,,PAT0076,0-12,Completed,Discharge Approved,5,Not Applicable
+EVT0076_09,CASE0076,Physical Exit,2026-10-12 18:42:00,Exit,,PAT0076,0-12,Completed,Patient Exited,5,Not Applicable
+EVT0077_01,CASE0077,Walk-in Registered,2026-10-13 13:47:00,Front Desk,,PAT0077,13-20,Completed,Registered,4,Not Applicable
+EVT0077_02,CASE0077,Triage Started,2026-10-13 14:26:00,Triage,,PAT0077,13-20,Completed,Triage Started,4,Not Applicable
+EVT0077_03,CASE0077,Triage Completed,2026-10-13 14:41:00,Triage,,PAT0077,13-20,Completed,Triage Completed,4,Not Applicable
+EVT0077_04,CASE0077,Assigned to Waiting Area,2026-10-13 15:13:00,Emergency,,PAT0077,13-20,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0077_05,CASE0077,First Physician Contact,2026-10-13 15:21:00,Emergency,DOC003,PAT0077,13-20,Completed,Physician Assessment Started,4,Not Applicable
+EVT0077_06,CASE0077,Imaging Order Placed,2026-10-13 15:59:00,Emergency,,PAT0077,13-20,Completed,Imaging Order Created,4,Not Applicable
+EVT0077_07,CASE0077,Imaging Results Returned,2026-10-13 16:32:00,Radiology,,PAT0077,13-20,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0077_08,CASE0077,Triage Started,2026-10-13 17:38:00,Triage,,PAT0077,13-20,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0077_09,CASE0077,Triage Completed,2026-10-13 17:53:00,Triage,,PAT0077,13-20,Completed,Reassessment Completed,4,Not Applicable
+EVT0077_10,CASE0077,First Physician Contact,2026-10-13 18:35:00,Emergency,DOC003,PAT0077,13-20,Completed,Repeat Physician Review,4,Not Applicable
+EVT0077_11,CASE0077,Treatment Started,2026-10-13 19:12:00,Treatment Room,DOC005,PAT0077,13-20,Completed,Treatment Started,4,Not Applicable
+EVT0077_12,CASE0077,Treatment Completed,2026-10-13 19:49:00,Treatment Room,DOC008,PAT0077,13-20,Completed,Treatment Completed,4,Not Applicable
+EVT0077_13,CASE0077,Discharge Order Placed,2026-10-13 20:47:00,Emergency,,PAT0077,13-20,Completed,Discharge Approved,4,Not Applicable
+EVT0077_14,CASE0077,Physical Exit,2026-10-13 21:07:00,Exit,,PAT0077,13-20,Completed,Patient Exited,4,Not Applicable
+EVT0078_01,CASE0078,Ambulance Arrived,2026-10-07 17:57:00,Emergency,,PAT0078,0-12,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0078_02,CASE0078,Triage Started,2026-10-07 18:31:00,Triage,,PAT0078,0-12,Completed,Triage Started,4,Not Applicable
+EVT0078_03,CASE0078,Triage Completed,2026-10-07 19:11:00,Triage,,PAT0078,0-12,Completed,Triage Completed,4,Not Applicable
+EVT0078_04,CASE0078,Assigned to ER Bed,2026-10-07 19:40:00,Emergency,,PAT0078,0-12,Completed,ER Bed Assigned,4,Not Applicable
+EVT0078_05,CASE0078,First Physician Contact,2026-10-07 20:05:00,Emergency,DOC001,PAT0078,0-12,Completed,Physician Assessment Started,4,Not Applicable
+EVT0078_06,CASE0078,Imaging Order Placed,2026-10-07 20:45:00,Emergency,,PAT0078,0-12,Completed,Imaging Order Created,4,Not Applicable
+EVT0078_07,CASE0078,Imaging Results Returned,2026-10-07 20:59:00,Radiology,,PAT0078,0-12,Completed,Imaging Results Available,4,Not Applicable
+EVT0078_08,CASE0078,Treatment Started,2026-10-07 22:12:00,Treatment Room,DOC007,PAT0078,0-12,Completed,Treatment Started,4,Not Applicable
+EVT0078_09,CASE0078,Treatment Completed,2026-10-07 22:35:00,Treatment Room,DOC001,PAT0078,0-12,Completed,Treatment Completed,4,Not Applicable
+EVT0078_10,CASE0078,Discharge Order Placed,2026-10-07 23:23:00,Emergency,,PAT0078,0-12,Completed,Discharge Approved,4,Not Applicable
+EVT0078_11,CASE0078,Physical Exit,2026-10-07 23:36:00,Exit,,PAT0078,0-12,Completed,Patient Exited,4,Not Applicable
+EVT0079_01,CASE0079,Ambulance Arrived,2026-10-04 15:00:00,Emergency,,PAT0079,21-40,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0079_02,CASE0079,Triage Started,2026-10-04 15:35:00,Triage,,PAT0079,21-40,Completed,Triage Started,4,Not Applicable
+EVT0079_03,CASE0079,Triage Completed,2026-10-04 16:16:00,Triage,,PAT0079,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0079_04,CASE0079,Assigned to ER Bed,2026-10-04 17:00:00,Emergency,,PAT0079,21-40,Completed,ER Bed Assigned,4,Not Applicable
+EVT0079_05,CASE0079,First Physician Contact,2026-10-04 17:32:00,Emergency,DOC004,PAT0079,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0079_06,CASE0079,Imaging Order Placed,2026-10-04 18:08:00,Emergency,,PAT0079,21-40,Completed,Imaging Order Created,4,Not Applicable
+EVT0079_07,CASE0079,Imaging Results Returned,2026-10-04 18:37:00,Radiology,,PAT0079,21-40,Completed,Imaging Results Available,4,Not Applicable
+EVT0079_08,CASE0079,Treatment Started,2026-10-04 19:43:00,Treatment Room,DOC006,PAT0079,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0079_09,CASE0079,Treatment Completed,2026-10-04 20:29:00,Treatment Room,DOC008,PAT0079,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0079_10,CASE0079,Discharge Order Placed,2026-10-04 21:24:00,Emergency,,PAT0079,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0079_11,CASE0079,Physical Exit,2026-10-04 21:45:00,Exit,,PAT0079,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0080_01,CASE0080,Walk-in Registered,2026-10-04 12:45:00,Front Desk,,PAT0080,21-40,Completed,Registered,3,Not Applicable
+EVT0080_02,CASE0080,Triage Started,2026-10-04 13:06:00,Triage,,PAT0080,21-40,Completed,Triage Started,3,Not Applicable
+EVT0080_03,CASE0080,Triage Completed,2026-10-04 13:40:00,Triage,,PAT0080,21-40,Completed,Triage Completed,3,Not Applicable
+EVT0080_04,CASE0080,Assigned to Waiting Area,2026-10-04 14:16:00,Emergency,,PAT0080,21-40,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0080_05,CASE0080,First Physician Contact,2026-10-04 14:46:00,Emergency,DOC006,PAT0080,21-40,Completed,Physician Assessment Started,3,Not Applicable
+EVT0080_06,CASE0080,Lab Order Placed,2026-10-04 15:31:00,Emergency,,PAT0080,21-40,Completed,Lab Order Created,3,Not Applicable
+EVT0080_07,CASE0080,Lab Results Returned,2026-10-04 15:56:00,Laboratory,,PAT0080,21-40,Completed,Lab Results Available,3,Not Applicable
+EVT0080_08,CASE0080,Imaging Order Placed,2026-10-04 16:42:00,Emergency,,PAT0080,21-40,Completed,Imaging Order Created,3,Not Applicable
+EVT0080_09,CASE0080,Imaging Results Returned,2026-10-04 17:06:00,Radiology,,PAT0080,21-40,Completed,Imaging Results Available,3,Not Applicable
+EVT0080_10,CASE0080,Treatment Started,2026-10-04 18:26:00,Treatment Room,DOC007,PAT0080,21-40,Completed,Treatment Started,3,Not Applicable
+EVT0080_11,CASE0080,Treatment Completed,2026-10-04 19:08:00,Treatment Room,DOC003,PAT0080,21-40,Completed,Treatment Completed,3,Not Applicable
+EVT0080_12,CASE0080,Discharge Order Placed,2026-10-04 19:54:00,Emergency,,PAT0080,21-40,Completed,Discharge Approved,3,Not Applicable
+EVT0080_13,CASE0080,Physical Exit,2026-10-04 20:10:00,Exit,,PAT0080,21-40,Completed,Patient Exited,3,Not Applicable
+EVT0081_01,CASE0081,Walk-in Registered,2026-10-12 16:10:00,Front Desk,,PAT0081,21-40,Completed,Registered,4,Not Applicable
+EVT0081_02,CASE0081,Triage Started,2026-10-12 16:29:00,Triage,,PAT0081,21-40,Completed,Triage Started,4,Not Applicable
+EVT0081_03,CASE0081,Triage Completed,2026-10-12 16:49:00,Triage,,PAT0081,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0081_04,CASE0081,Assigned to Waiting Area,2026-10-12 17:07:00,Emergency,,PAT0081,21-40,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0081_05,CASE0081,First Physician Contact,2026-10-12 17:33:00,Emergency,DOC004,PAT0081,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0081_06,CASE0081,Imaging Order Placed,2026-10-12 17:56:00,Emergency,,PAT0081,21-40,Completed,Imaging Order Created,4,Not Applicable
+EVT0081_07,CASE0081,Imaging Results Returned,2026-10-12 18:23:00,Radiology,,PAT0081,21-40,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0081_08,CASE0081,Triage Started,2026-10-12 18:58:00,Triage,,PAT0081,21-40,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0081_09,CASE0081,Triage Completed,2026-10-12 19:19:00,Triage,,PAT0081,21-40,Completed,Reassessment Completed,4,Not Applicable
+EVT0081_10,CASE0081,First Physician Contact,2026-10-12 20:16:00,Emergency,DOC002,PAT0081,21-40,Completed,Repeat Physician Review,4,Not Applicable
+EVT0081_11,CASE0081,Treatment Started,2026-10-12 21:07:00,Treatment Room,DOC001,PAT0081,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0081_12,CASE0081,Treatment Completed,2026-10-12 21:49:00,Treatment Room,DOC003,PAT0081,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0081_13,CASE0081,Discharge Order Placed,2026-10-12 22:52:00,Emergency,,PAT0081,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0081_14,CASE0081,Physical Exit,2026-10-12 23:17:00,Exit,,PAT0081,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0082_01,CASE0082,Ambulance Arrived,2026-10-13 09:31:00,Emergency,,PAT0082,21-40,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0082_02,CASE0082,Triage Started,2026-10-13 10:01:00,Triage,,PAT0082,21-40,Completed,Triage Started,4,Not Applicable
+EVT0082_03,CASE0082,Triage Completed,2026-10-13 10:27:00,Triage,,PAT0082,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0082_04,CASE0082,Assigned to ER Bed,2026-10-13 11:06:00,Emergency,,PAT0082,21-40,Completed,ER Bed Assigned,4,Not Applicable
+EVT0082_05,CASE0082,First Physician Contact,2026-10-13 11:31:00,Emergency,DOC001,PAT0082,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0082_06,CASE0082,Imaging Order Placed,2026-10-13 12:17:00,Emergency,,PAT0082,21-40,Completed,Imaging Order Created,4,Not Applicable
+EVT0082_07,CASE0082,Imaging Results Returned,2026-10-13 12:51:00,Radiology,,PAT0082,21-40,Completed,Imaging Results Available,4,Not Applicable
+EVT0082_08,CASE0082,Treatment Started,2026-10-13 13:47:00,Treatment Room,DOC001,PAT0082,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0082_09,CASE0082,Treatment Completed,2026-10-13 14:01:00,Treatment Room,DOC002,PAT0082,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0082_10,CASE0082,Discharge Order Placed,2026-10-13 15:04:00,Emergency,,PAT0082,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0082_11,CASE0082,Physical Exit,2026-10-13 15:22:00,Exit,,PAT0082,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0083_01,CASE0083,Walk-in Registered,2026-10-03 16:36:00,Front Desk,,PAT0083,61+,Completed,Registered,5,Not Applicable
+EVT0083_02,CASE0083,Triage Started,2026-10-03 17:01:00,Triage,,PAT0083,61+,Completed,Triage Started,5,Not Applicable
+EVT0083_03,CASE0083,Triage Completed,2026-10-03 17:35:00,Triage,,PAT0083,61+,Completed,Triage Completed,5,Not Applicable
+EVT0083_04,CASE0083,Assigned to Waiting Area,2026-10-03 17:56:00,Emergency,,PAT0083,61+,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0083_05,CASE0083,First Physician Contact,2026-10-03 18:27:00,Emergency,DOC005,PAT0083,61+,Completed,Physician Assessment Started,5,Not Applicable
+EVT0083_06,CASE0083,Treatment Started,2026-10-03 19:18:00,Treatment Room,DOC001,PAT0083,61+,Completed,Treatment Started,5,Not Applicable
+EVT0083_07,CASE0083,Treatment Completed,2026-10-03 19:53:00,Treatment Room,DOC005,PAT0083,61+,Completed,Treatment Completed,5,Not Applicable
+EVT0083_08,CASE0083,Discharge Order Placed,2026-10-03 20:47:00,Emergency,,PAT0083,61+,Completed,Discharge Approved,5,Not Applicable
+EVT0083_09,CASE0083,Physical Exit,2026-10-03 21:00:00,Exit,,PAT0083,61+,Completed,Patient Exited,5,Not Applicable
+EVT0084_01,CASE0084,Walk-in Registered,2026-10-02 14:50:00,Front Desk,,PAT0084,41-60,Completed,Registered,4,Not Applicable
+EVT0084_02,CASE0084,Triage Started,2026-10-02 15:06:00,Triage,,PAT0084,41-60,Completed,Triage Started,4,Not Applicable
+EVT0084_03,CASE0084,Triage Completed,2026-10-02 15:30:00,Triage,,PAT0084,41-60,Completed,Triage Completed,4,Not Applicable
+EVT0084_04,CASE0084,Assigned to Waiting Area,2026-10-02 16:14:00,Emergency,,PAT0084,41-60,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0084_05,CASE0084,First Physician Contact,2026-10-02 16:22:00,Emergency,DOC007,PAT0084,41-60,Completed,Physician Assessment Started,4,Not Applicable
+EVT0084_06,CASE0084,Imaging Order Placed,2026-10-02 16:52:00,Emergency,,PAT0084,41-60,Completed,Imaging Order Created,4,Not Applicable
+EVT0084_07,CASE0084,Imaging Results Returned,2026-10-02 17:25:00,Radiology,,PAT0084,41-60,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0084_08,CASE0084,Triage Started,2026-10-02 18:32:00,Triage,,PAT0084,41-60,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0084_09,CASE0084,Triage Completed,2026-10-02 18:51:00,Triage,,PAT0084,41-60,Completed,Reassessment Completed,4,Not Applicable
+EVT0084_10,CASE0084,First Physician Contact,2026-10-02 19:29:00,Emergency,DOC004,PAT0084,41-60,Completed,Repeat Physician Review,4,Not Applicable
+EVT0084_11,CASE0084,Treatment Started,2026-10-02 19:56:00,Treatment Room,DOC002,PAT0084,41-60,Completed,Treatment Started,4,Not Applicable
+EVT0084_12,CASE0084,Treatment Completed,2026-10-02 20:30:00,Treatment Room,DOC003,PAT0084,41-60,Completed,Treatment Completed,4,Not Applicable
+EVT0084_13,CASE0084,Discharge Order Placed,2026-10-02 21:16:00,Emergency,,PAT0084,41-60,Completed,Discharge Approved,4,Not Applicable
+EVT0084_14,CASE0084,Physical Exit,2026-10-02 21:56:00,Exit,,PAT0084,41-60,Completed,Patient Exited,4,Not Applicable
+EVT0085_01,CASE0085,Walk-in Registered,2026-10-05 14:16:00,Front Desk,,PAT0085,21-40,Completed,Registered,4,Not Applicable
+EVT0085_02,CASE0085,Triage Started,2026-10-05 14:36:00,Triage,,PAT0085,21-40,Completed,Triage Started,4,Not Applicable
+EVT0085_03,CASE0085,Triage Completed,2026-10-05 15:00:00,Triage,,PAT0085,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0085_04,CASE0085,Assigned to Waiting Area,2026-10-05 15:26:00,Emergency,,PAT0085,21-40,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0085_05,CASE0085,First Physician Contact,2026-10-05 15:57:00,Emergency,DOC007,PAT0085,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0085_06,CASE0085,Lab Order Placed,2026-10-05 16:45:00,Emergency,,PAT0085,21-40,Completed,Lab Order Created,4,Not Applicable
+EVT0085_07,CASE0085,Lab Results Returned,2026-10-05 17:18:00,Laboratory,,PAT0085,21-40,Completed,Lab Results Available,4,Not Applicable
+EVT0085_08,CASE0085,Imaging Order Placed,2026-10-05 18:37:00,Emergency,,PAT0085,21-40,Completed,Imaging Order Created,4,Not Applicable
+EVT0085_09,CASE0085,Imaging Results Returned,2026-10-05 19:08:00,Radiology,,PAT0085,21-40,Completed,Imaging Results Available,4,Not Applicable
+EVT0085_10,CASE0085,Treatment Started,2026-10-05 20:04:00,Treatment Room,DOC002,PAT0085,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0085_11,CASE0085,Treatment Completed,2026-10-05 20:39:00,Treatment Room,DOC006,PAT0085,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0085_12,CASE0085,Discharge Order Placed,2026-10-05 21:24:00,Emergency,,PAT0085,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0085_13,CASE0085,Physical Exit,2026-10-05 21:38:00,Exit,,PAT0085,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0086_01,CASE0086,Walk-in Registered,2026-10-09 10:33:00,Front Desk,,PAT0086,61+,Completed,Registered,3,Not Applicable
+EVT0086_02,CASE0086,Triage Started,2026-10-09 10:55:00,Triage,,PAT0086,61+,Completed,Triage Started,3,Not Applicable
+EVT0086_03,CASE0086,Triage Completed,2026-10-09 11:21:00,Triage,,PAT0086,61+,Completed,Triage Completed,3,Not Applicable
+EVT0086_04,CASE0086,Assigned to Waiting Area,2026-10-09 11:53:00,Emergency,,PAT0086,61+,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0086_05,CASE0086,First Physician Contact,2026-10-09 12:23:00,Emergency,DOC002,PAT0086,61+,Completed,Physician Assessment Started,3,Not Applicable
+EVT0086_06,CASE0086,Imaging Order Placed,2026-10-09 13:21:00,Emergency,,PAT0086,61+,Completed,Imaging Order Created,3,Not Applicable
+EVT0086_07,CASE0086,Imaging Results Returned,2026-10-09 13:55:00,Radiology,,PAT0086,61+,Completed,Paperwork Missing - Rework Required,3,Not Applicable
+EVT0086_08,CASE0086,Triage Started,2026-10-09 14:32:00,Triage,,PAT0086,61+,Completed,Triage Repeated After Paperwork Issue,3,Not Applicable
+EVT0086_09,CASE0086,Triage Completed,2026-10-09 14:57:00,Triage,,PAT0086,61+,Completed,Reassessment Completed,3,Not Applicable
+EVT0086_10,CASE0086,First Physician Contact,2026-10-09 15:47:00,Emergency,DOC008,PAT0086,61+,Completed,Repeat Physician Review,3,Not Applicable
+EVT0086_11,CASE0086,Treatment Started,2026-10-09 16:24:00,Treatment Room,DOC001,PAT0086,61+,Completed,Treatment Started,3,Not Applicable
+EVT0086_12,CASE0086,Treatment Completed,2026-10-09 16:50:00,Treatment Room,DOC001,PAT0086,61+,Completed,Treatment Completed,3,Not Applicable
+EVT0086_13,CASE0086,Discharge Order Placed,2026-10-09 17:44:00,Emergency,,PAT0086,61+,Completed,Discharge Approved,3,Not Applicable
+EVT0086_14,CASE0086,Physical Exit,2026-10-09 18:10:00,Exit,,PAT0086,61+,Completed,Patient Exited,3,Not Applicable
+EVT0087_01,CASE0087,Ambulance Arrived,2026-10-01 09:10:00,Emergency,,PAT0087,41-60,Completed,Ambulance Arrival Recorded,2,Not Applicable
+EVT0087_02,CASE0087,Triage Started,2026-10-01 09:21:00,Triage,,PAT0087,41-60,Completed,Triage Started,2,Not Applicable
+EVT0087_03,CASE0087,Triage Completed,2026-10-01 09:44:00,Triage,,PAT0087,41-60,Completed,Triage Completed,2,Not Applicable
+EVT0087_04,CASE0087,Assigned to ER Bed,2026-10-01 10:20:00,Emergency,,PAT0087,41-60,Completed,ER Bed Assigned,2,Not Applicable
+EVT0087_05,CASE0087,First Physician Contact,2026-10-01 10:56:00,Emergency,DOC006,PAT0087,41-60,Completed,Physician Assessment Started,2,Not Applicable
+EVT0087_06,CASE0087,Imaging Order Placed,2026-10-01 11:52:00,Emergency,,PAT0087,41-60,Completed,Imaging Order Created,2,Not Applicable
+EVT0087_07,CASE0087,Imaging Results Returned,2026-10-01 12:15:00,Radiology,,PAT0087,41-60,Completed,Imaging Results Available,2,Not Applicable
+EVT0087_08,CASE0087,Treatment Started,2026-10-01 13:11:00,Treatment Room,DOC003,PAT0087,41-60,Completed,Treatment Started,2,Not Applicable
+EVT0087_09,CASE0087,Treatment Completed,2026-10-01 13:42:00,Treatment Room,DOC002,PAT0087,41-60,Completed,Treatment Completed,2,Not Applicable
+EVT0087_10,CASE0087,Discharge Order Placed,2026-10-01 14:24:00,Emergency,,PAT0087,41-60,Completed,Discharge Approved,2,Not Applicable
+EVT0087_11,CASE0087,Physical Exit,2026-10-01 14:47:00,Exit,,PAT0087,41-60,Completed,Patient Exited,2,Not Applicable
+EVT0088_01,CASE0088,Walk-in Registered,2026-10-05 15:54:00,Front Desk,,PAT0088,13-20,Completed,Registered,5,Not Applicable
+EVT0088_02,CASE0088,Triage Started,2026-10-05 16:27:00,Triage,,PAT0088,13-20,Completed,Triage Started,5,Not Applicable
+EVT0088_03,CASE0088,Triage Completed,2026-10-05 17:04:00,Triage,,PAT0088,13-20,Completed,Triage Completed,5,Not Applicable
+EVT0088_04,CASE0088,Assigned to Waiting Area,2026-10-05 17:24:00,Emergency,,PAT0088,13-20,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0088_05,CASE0088,First Physician Contact,2026-10-05 17:45:00,Emergency,DOC005,PAT0088,13-20,Completed,Physician Assessment Started,5,Not Applicable
+EVT0088_06,CASE0088,Imaging Order Placed,2026-10-05 18:10:00,Emergency,,PAT0088,13-20,Completed,Imaging Order Created,5,Not Applicable
+EVT0088_07,CASE0088,Imaging Results Returned,2026-10-05 18:17:00,Radiology,,PAT0088,13-20,Completed,Paperwork Missing - Rework Required,5,Not Applicable
+EVT0088_08,CASE0088,Triage Started,2026-10-05 19:32:00,Triage,,PAT0088,13-20,Completed,Triage Repeated After Paperwork Issue,5,Not Applicable
+EVT0088_09,CASE0088,Triage Completed,2026-10-05 20:08:00,Triage,,PAT0088,13-20,Completed,Reassessment Completed,5,Not Applicable
+EVT0088_10,CASE0088,First Physician Contact,2026-10-05 20:45:00,Emergency,DOC002,PAT0088,13-20,Completed,Repeat Physician Review,5,Not Applicable
+EVT0088_11,CASE0088,Treatment Started,2026-10-05 21:09:00,Treatment Room,DOC001,PAT0088,13-20,Completed,Treatment Started,5,Not Applicable
+EVT0088_12,CASE0088,Treatment Completed,2026-10-05 21:42:00,Treatment Room,DOC004,PAT0088,13-20,Completed,Treatment Completed,5,Not Applicable
+EVT0088_13,CASE0088,Discharge Order Placed,2026-10-05 22:23:00,Emergency,,PAT0088,13-20,Completed,Discharge Approved,5,Not Applicable
+EVT0088_14,CASE0088,Physical Exit,2026-10-05 22:42:00,Exit,,PAT0088,13-20,Completed,Patient Exited,5,Not Applicable
+EVT0089_01,CASE0089,Walk-in Registered,2026-10-01 10:23:00,Front Desk,,PAT0089,61+,Completed,Registered,5,Not Applicable
+EVT0089_02,CASE0089,Triage Started,2026-10-01 10:44:00,Triage,,PAT0089,61+,Completed,Triage Started,5,Not Applicable
+EVT0089_03,CASE0089,Triage Completed,2026-10-01 11:15:00,Triage,,PAT0089,61+,Completed,Triage Completed,5,Not Applicable
+EVT0089_04,CASE0089,Assigned to Waiting Area,2026-10-01 11:48:00,Emergency,,PAT0089,61+,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0089_05,CASE0089,First Physician Contact,2026-10-01 12:23:00,Emergency,DOC004,PAT0089,61+,Completed,Physician Assessment Started,5,Not Applicable
+EVT0089_06,CASE0089,Lab Order Placed,2026-10-01 12:57:00,Emergency,,PAT0089,61+,Completed,Lab Order Created,5,Not Applicable
+EVT0089_07,CASE0089,Lab Results Returned,2026-10-01 13:25:00,Laboratory,,PAT0089,61+,Completed,Lab Results Available,5,Not Applicable
+EVT0089_08,CASE0089,Treatment Started,2026-10-01 14:25:00,Treatment Room,DOC005,PAT0089,61+,Completed,Treatment Started,5,Not Applicable
+EVT0089_09,CASE0089,Treatment Completed,2026-10-01 14:49:00,Treatment Room,DOC003,PAT0089,61+,Completed,Treatment Completed,5,Not Applicable
+EVT0089_10,CASE0089,Discharge Order Placed,2026-10-01 15:27:00,Emergency,,PAT0089,61+,Completed,Discharge Approved,5,Not Applicable
+EVT0089_11,CASE0089,Physical Exit,2026-10-01 15:54:00,Exit,,PAT0089,61+,Completed,Patient Exited,5,Not Applicable
+EVT0090_01,CASE0090,Walk-in Registered,2026-10-13 16:57:00,Front Desk,,PAT0090,21-40,Completed,Registered,4,Not Applicable
+EVT0090_02,CASE0090,Triage Started,2026-10-13 17:34:00,Triage,,PAT0090,21-40,Completed,Triage Started,4,Not Applicable
+EVT0090_03,CASE0090,Triage Completed,2026-10-13 17:58:00,Triage,,PAT0090,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0090_04,CASE0090,Assigned to Waiting Area,2026-10-13 18:19:00,Emergency,,PAT0090,21-40,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0090_05,CASE0090,First Physician Contact,2026-10-13 18:34:00,Emergency,DOC004,PAT0090,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0090_06,CASE0090,Imaging Order Placed,2026-10-13 19:31:00,Emergency,,PAT0090,21-40,Completed,Imaging Order Created,4,Not Applicable
+EVT0090_07,CASE0090,Imaging Results Returned,2026-10-13 19:47:00,Radiology,,PAT0090,21-40,Completed,Paperwork Missing - Rework Required,4,Not Applicable
+EVT0090_08,CASE0090,Triage Started,2026-10-13 20:56:00,Triage,,PAT0090,21-40,Completed,Triage Repeated After Paperwork Issue,4,Not Applicable
+EVT0090_09,CASE0090,Triage Completed,2026-10-13 21:36:00,Triage,,PAT0090,21-40,Completed,Reassessment Completed,4,Not Applicable
+EVT0090_10,CASE0090,First Physician Contact,2026-10-13 22:23:00,Emergency,DOC007,PAT0090,21-40,Completed,Repeat Physician Review,4,Not Applicable
+EVT0090_11,CASE0090,Treatment Started,2026-10-13 23:08:00,Treatment Room,DOC003,PAT0090,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0090_12,CASE0090,Treatment Completed,2026-10-13 23:38:00,Treatment Room,DOC005,PAT0090,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0090_13,CASE0090,Discharge Order Placed,2026-10-14 00:14:00,Emergency,,PAT0090,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0090_14,CASE0090,Physical Exit,2026-10-14 00:43:00,Exit,,PAT0090,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0091_01,CASE0091,Walk-in Registered,2026-10-12 11:15:00,Front Desk,,PAT0091,41-60,Completed,Registered,2,Not Applicable
+EVT0091_02,CASE0091,Triage Started,2026-10-12 11:33:00,Triage,,PAT0091,41-60,Completed,Triage Started,2,Not Applicable
+EVT0091_03,CASE0091,Triage Completed,2026-10-12 12:05:00,Triage,,PAT0091,41-60,Completed,Triage Completed,2,Not Applicable
+EVT0091_04,CASE0091,Assigned to Waiting Area,2026-10-12 12:42:00,Emergency,,PAT0091,41-60,Completed,Waiting Area Assigned,2,Not Applicable
+EVT0091_05,CASE0091,First Physician Contact,2026-10-12 12:55:00,Emergency,DOC008,PAT0091,41-60,Completed,Physician Assessment Started,2,Not Applicable
+EVT0091_06,CASE0091,Imaging Order Placed,2026-10-12 13:22:00,Emergency,,PAT0091,41-60,Completed,Imaging Order Created,2,Not Applicable
+EVT0091_07,CASE0091,Imaging Results Returned,2026-10-12 13:39:00,Radiology,,PAT0091,41-60,Completed,Paperwork Missing - Rework Required,2,Not Applicable
+EVT0091_08,CASE0091,Triage Started,2026-10-12 14:05:00,Triage,,PAT0091,41-60,Completed,Triage Repeated After Paperwork Issue,2,Not Applicable
+EVT0091_09,CASE0091,Triage Completed,2026-10-12 14:44:00,Triage,,PAT0091,41-60,Completed,Reassessment Completed,2,Not Applicable
+EVT0091_10,CASE0091,First Physician Contact,2026-10-12 15:38:00,Emergency,DOC004,PAT0091,41-60,Completed,Repeat Physician Review,2,Not Applicable
+EVT0091_11,CASE0091,Treatment Started,2026-10-12 16:30:00,Treatment Room,DOC004,PAT0091,41-60,Completed,Treatment Started,2,Not Applicable
+EVT0091_12,CASE0091,Treatment Completed,2026-10-12 17:01:00,Treatment Room,DOC006,PAT0091,41-60,Completed,Treatment Completed,2,Not Applicable
+EVT0091_13,CASE0091,Discharge Order Placed,2026-10-12 17:55:00,Emergency,,PAT0091,41-60,Completed,Discharge Approved,2,Not Applicable
+EVT0091_14,CASE0091,Physical Exit,2026-10-12 18:16:00,Exit,,PAT0091,41-60,Completed,Patient Exited,2,Not Applicable
+EVT0092_01,CASE0092,Ambulance Arrived,2026-10-08 15:57:00,Emergency,,PAT0092,21-40,Completed,Ambulance Arrival Recorded,4,Not Applicable
+EVT0092_02,CASE0092,Triage Started,2026-10-08 16:29:00,Triage,,PAT0092,21-40,Completed,Triage Started,4,Not Applicable
+EVT0092_03,CASE0092,Triage Completed,2026-10-08 16:57:00,Triage,,PAT0092,21-40,Completed,Triage Completed,4,Not Applicable
+EVT0092_04,CASE0092,Assigned to ER Bed,2026-10-08 17:41:00,Emergency,,PAT0092,21-40,Completed,ER Bed Assigned,4,Not Applicable
+EVT0092_05,CASE0092,First Physician Contact,2026-10-08 18:05:00,Emergency,DOC007,PAT0092,21-40,Completed,Physician Assessment Started,4,Not Applicable
+EVT0092_06,CASE0092,Imaging Order Placed,2026-10-08 18:31:00,Emergency,,PAT0092,21-40,Completed,Imaging Order Created,4,Not Applicable
+EVT0092_07,CASE0092,Imaging Results Returned,2026-10-08 19:01:00,Radiology,,PAT0092,21-40,Completed,Imaging Results Available,4,Not Applicable
+EVT0092_08,CASE0092,Treatment Started,2026-10-08 19:30:00,Treatment Room,DOC007,PAT0092,21-40,Completed,Treatment Started,4,Not Applicable
+EVT0092_09,CASE0092,Treatment Completed,2026-10-08 19:53:00,Treatment Room,DOC004,PAT0092,21-40,Completed,Treatment Completed,4,Not Applicable
+EVT0092_10,CASE0092,Discharge Order Placed,2026-10-08 20:27:00,Emergency,,PAT0092,21-40,Completed,Discharge Approved,4,Not Applicable
+EVT0092_11,CASE0092,Physical Exit,2026-10-08 20:47:00,Exit,,PAT0092,21-40,Completed,Patient Exited,4,Not Applicable
+EVT0093_01,CASE0093,Walk-in Registered,2026-10-11 13:45:00,Front Desk,,PAT0093,13-20,Completed,Registered,4,Not Applicable
+EVT0093_02,CASE0093,Triage Started,2026-10-11 14:23:00,Triage,,PAT0093,13-20,Completed,Triage Started,4,Not Applicable
+EVT0093_03,CASE0093,Triage Completed,2026-10-11 15:04:00,Triage,,PAT0093,13-20,Completed,Triage Completed,4,Not Applicable
+EVT0093_04,CASE0093,Assigned to Waiting Area,2026-10-11 15:35:00,Emergency,,PAT0093,13-20,Completed,Waiting Area Assigned,4,Not Applicable
+EVT0093_05,CASE0093,First Physician Contact,2026-10-11 16:06:00,Emergency,DOC003,PAT0093,13-20,Completed,Physician Assessment Started,4,Not Applicable
+EVT0093_06,CASE0093,Treatment Started,2026-10-11 16:36:00,Treatment Room,DOC008,PAT0093,13-20,Completed,Treatment Started,4,Not Applicable
+EVT0093_07,CASE0093,Treatment Completed,2026-10-11 16:59:00,Treatment Room,DOC001,PAT0093,13-20,Completed,Treatment Completed,4,Not Applicable
+EVT0093_08,CASE0093,Discharge Order Placed,2026-10-11 18:04:00,Emergency,,PAT0093,13-20,Completed,Discharge Approved,4,Not Applicable
+EVT0093_09,CASE0093,Physical Exit,2026-10-11 18:37:00,Exit,,PAT0093,13-20,Completed,Patient Exited,4,Not Applicable
+EVT0094_01,CASE0094,Ambulance Arrived,2026-10-04 09:09:00,Emergency,,PAT0094,0-12,Completed,Ambulance Arrival Recorded,4,Delayed
+EVT0094_02,CASE0094,Triage Started,2026-10-04 09:25:00,Triage,,PAT0094,0-12,Completed,Triage Started,4,Delayed
+EVT0094_03,CASE0094,Triage Completed,2026-10-04 09:39:00,Triage,,PAT0094,0-12,Completed,Triage Completed,4,Delayed
+EVT0094_04,CASE0094,Assigned to ER Bed,2026-10-04 10:07:00,Emergency,,PAT0094,0-12,Completed,ER Bed Assigned,4,Delayed
+EVT0094_05,CASE0094,First Physician Contact,2026-10-04 10:36:00,Emergency,DOC008,PAT0094,0-12,Completed,Physician Assessment Started,4,Delayed
+EVT0094_06,CASE0094,Lab Order Placed,2026-10-04 11:06:00,Emergency,,PAT0094,0-12,Completed,Lab Order Created,4,Delayed
+EVT0094_07,CASE0094,Lab Results Returned,2026-10-04 11:29:00,Laboratory,,PAT0094,0-12,Completed,Lab Results Available,4,Delayed
+EVT0094_08,CASE0094,Treatment Started,2026-10-04 12:37:00,Treatment Room,DOC001,PAT0094,0-12,Completed,Treatment Started,4,Delayed
+EVT0094_09,CASE0094,Treatment Completed,2026-10-04 13:03:00,Treatment Room,DOC005,PAT0094,0-12,Completed,Treatment Completed,4,Delayed
+EVT0094_10,CASE0094,Inpatient Bed Requested,2026-10-04 13:35:00,Bed Management,,PAT0094,0-12,Completed,Inpatient Bed Requested,4,Delayed
+EVT0094_11,CASE0094,Transfer Completed,2026-10-04 14:12:00,Inpatient Ward,,PAT0094,0-12,Completed,Transferred to Inpatient Ward,4,Delayed
+EVT0095_01,CASE0095,Walk-in Registered,2026-10-03 12:06:00,Front Desk,,PAT0095,13-20,Completed,Registered,2,Not Applicable
+EVT0095_02,CASE0095,Triage Started,2026-10-03 12:38:00,Triage,,PAT0095,13-20,Completed,Triage Started,2,Not Applicable
+EVT0095_03,CASE0095,Triage Completed,2026-10-03 12:58:00,Triage,,PAT0095,13-20,Completed,Triage Completed,2,Not Applicable
+EVT0095_04,CASE0095,Assigned to Waiting Area,2026-10-03 13:21:00,Emergency,,PAT0095,13-20,Completed,Waiting Area Assigned,2,Not Applicable
+EVT0095_05,CASE0095,First Physician Contact,2026-10-03 13:46:00,Emergency,DOC006,PAT0095,13-20,Completed,Physician Assessment Started,2,Not Applicable
+EVT0095_06,CASE0095,Lab Order Placed,2026-10-03 14:33:00,Emergency,,PAT0095,13-20,Completed,Lab Order Created,2,Not Applicable
+EVT0095_07,CASE0095,Lab Results Returned,2026-10-03 14:56:00,Laboratory,,PAT0095,13-20,Completed,Lab Results Available,2,Not Applicable
+EVT0095_08,CASE0095,Treatment Started,2026-10-03 15:59:00,Treatment Room,DOC005,PAT0095,13-20,Completed,Treatment Started,2,Not Applicable
+EVT0095_09,CASE0095,Treatment Completed,2026-10-03 16:33:00,Treatment Room,DOC001,PAT0095,13-20,Completed,Treatment Completed,2,Not Applicable
+EVT0095_10,CASE0095,Discharge Order Placed,2026-10-03 16:55:00,Emergency,,PAT0095,13-20,Completed,Discharge Approved,2,Not Applicable
+EVT0095_11,CASE0095,Physical Exit,2026-10-03 17:17:00,Exit,,PAT0095,13-20,Completed,Patient Exited,2,Not Applicable
+EVT0096_01,CASE0096,Walk-in Registered,2026-10-03 09:24:00,Front Desk,,PAT0096,41-60,Completed,Registered,1,Not Applicable
+EVT0096_02,CASE0096,Triage Started,2026-10-03 10:08:00,Triage,,PAT0096,41-60,Completed,Triage Started,1,Not Applicable
+EVT0096_03,CASE0096,Triage Completed,2026-10-03 10:39:00,Triage,,PAT0096,41-60,Completed,Triage Completed,1,Not Applicable
+EVT0096_04,CASE0096,Assigned to Waiting Area,2026-10-03 11:12:00,Emergency,,PAT0096,41-60,Completed,Waiting Area Assigned,1,Not Applicable
+EVT0096_05,CASE0096,First Physician Contact,2026-10-03 11:28:00,Emergency,DOC004,PAT0096,41-60,Completed,Physician Assessment Started,1,Not Applicable
+EVT0096_06,CASE0096,Lab Order Placed,2026-10-03 11:50:00,Emergency,,PAT0096,41-60,Completed,Lab Order Created,1,Not Applicable
+EVT0096_07,CASE0096,Lab Results Returned,2026-10-03 12:07:00,Laboratory,,PAT0096,41-60,Completed,Lab Results Available,1,Not Applicable
+EVT0096_08,CASE0096,Treatment Started,2026-10-03 12:58:00,Treatment Room,DOC005,PAT0096,41-60,Completed,Treatment Started,1,Not Applicable
+EVT0096_09,CASE0096,Treatment Completed,2026-10-03 13:37:00,Treatment Room,DOC001,PAT0096,41-60,Completed,Treatment Completed,1,Not Applicable
+EVT0096_10,CASE0096,Discharge Order Placed,2026-10-03 14:31:00,Emergency,,PAT0096,41-60,Completed,Discharge Approved,1,Not Applicable
+EVT0096_11,CASE0096,Physical Exit,2026-10-03 14:40:00,Exit,,PAT0096,41-60,Completed,Patient Exited,1,Not Applicable
+EVT0097_01,CASE0097,Ambulance Arrived,2026-10-02 13:06:00,Emergency,,PAT0097,13-20,Completed,Ambulance Arrival Recorded,5,Unavailable
+EVT0097_02,CASE0097,Triage Started,2026-10-02 13:32:00,Triage,,PAT0097,13-20,Completed,Triage Started,5,Unavailable
+EVT0097_03,CASE0097,Triage Completed,2026-10-02 13:59:00,Triage,,PAT0097,13-20,Completed,Triage Completed,5,Unavailable
+EVT0097_04,CASE0097,Assigned to ER Bed,2026-10-02 14:36:00,Emergency,,PAT0097,13-20,Completed,ER Bed Assigned,5,Unavailable
+EVT0097_05,CASE0097,First Physician Contact,2026-10-02 15:04:00,Emergency,DOC003,PAT0097,13-20,Completed,Physician Assessment Started,5,Unavailable
+EVT0097_06,CASE0097,Lab Order Placed,2026-10-02 15:56:00,Emergency,,PAT0097,13-20,Completed,Lab Order Created,5,Unavailable
+EVT0097_07,CASE0097,Lab Results Returned,2026-10-02 16:18:00,Laboratory,,PAT0097,13-20,Completed,Lab Results Available,5,Unavailable
+EVT0097_08,CASE0097,Treatment Started,2026-10-02 17:01:00,Treatment Room,DOC007,PAT0097,13-20,Completed,Treatment Started,5,Unavailable
+EVT0097_09,CASE0097,Treatment Completed,2026-10-02 17:19:00,Treatment Room,DOC006,PAT0097,13-20,Completed,Treatment Completed,5,Unavailable
+EVT0097_10,CASE0097,Inpatient Bed Requested,2026-10-02 17:57:00,Bed Management,,PAT0097,13-20,Pending,Inpatient Bed Requested,5,Unavailable
+EVT0097_11,CASE0097,Transfer Completed,2026-10-02 18:29:00,Inpatient Ward,,PAT0097,13-20,Completed,Transferred to Inpatient Ward,5,Unavailable
+EVT0098_01,CASE0098,Walk-in Registered,2026-10-08 16:22:00,Front Desk,,PAT0098,21-40,Completed,Registered,3,Not Applicable
+EVT0098_02,CASE0098,Triage Started,2026-10-08 16:46:00,Triage,,PAT0098,21-40,Completed,Triage Started,3,Not Applicable
+EVT0098_03,CASE0098,Triage Completed,2026-10-08 17:28:00,Triage,,PAT0098,21-40,Completed,Triage Completed,3,Not Applicable
+EVT0098_04,CASE0098,Assigned to Waiting Area,2026-10-08 17:57:00,Emergency,,PAT0098,21-40,Completed,Waiting Area Assigned,3,Not Applicable
+EVT0098_05,CASE0098,First Physician Contact,2026-10-08 18:26:00,Emergency,DOC002,PAT0098,21-40,Completed,Physician Assessment Started,3,Not Applicable
+EVT0098_06,CASE0098,Lab Order Placed,2026-10-08 19:17:00,Emergency,,PAT0098,21-40,Completed,Lab Order Created,3,Not Applicable
+EVT0098_07,CASE0098,Lab Results Returned,2026-10-08 19:50:00,Laboratory,,PAT0098,21-40,Completed,Lab Results Available,3,Not Applicable
+EVT0098_08,CASE0098,Treatment Started,2026-10-08 20:47:00,Treatment Room,DOC002,PAT0098,21-40,Completed,Treatment Started,3,Not Applicable
+EVT0098_09,CASE0098,Treatment Completed,2026-10-08 21:06:00,Treatment Room,DOC007,PAT0098,21-40,Completed,Treatment Completed,3,Not Applicable
+EVT0098_10,CASE0098,Discharge Order Placed,2026-10-08 21:52:00,Emergency,,PAT0098,21-40,Completed,Discharge Approved,3,Not Applicable
+EVT0098_11,CASE0098,Physical Exit,2026-10-08 22:23:00,Exit,,PAT0098,21-40,Completed,Patient Exited,3,Not Applicable
+EVT0099_01,CASE0099,Walk-in Registered,2026-10-05 15:35:00,Front Desk,,PAT0099,21-40,Completed,Registered,1,Not Applicable
+EVT0099_02,CASE0099,Triage Started,2026-10-05 16:14:00,Triage,,PAT0099,21-40,Completed,Triage Started,1,Not Applicable
+EVT0099_03,CASE0099,Triage Completed,2026-10-05 16:27:00,Triage,,PAT0099,21-40,Completed,Triage Completed,1,Not Applicable
+EVT0099_04,CASE0099,Assigned to Waiting Area,2026-10-05 16:41:00,Emergency,,PAT0099,21-40,Completed,Waiting Area Assigned,1,Not Applicable
+EVT0099_05,CASE0099,First Physician Contact,2026-10-05 17:02:00,Emergency,DOC007,PAT0099,21-40,Completed,Physician Assessment Started,1,Not Applicable
+EVT0099_06,CASE0099,Lab Order Placed,2026-10-05 17:34:00,Emergency,,PAT0099,21-40,Completed,Lab Order Created,1,Not Applicable
+EVT0099_07,CASE0099,Lab Results Returned,2026-10-05 17:42:00,Laboratory,,PAT0099,21-40,Completed,Lab Results Available,1,Not Applicable
+EVT0099_08,CASE0099,Treatment Started,2026-10-05 18:41:00,Treatment Room,DOC006,PAT0099,21-40,Completed,Treatment Started,1,Not Applicable
+EVT0099_09,CASE0099,Treatment Completed,2026-10-05 19:19:00,Treatment Room,DOC001,PAT0099,21-40,Completed,Treatment Completed,1,Not Applicable
+EVT0099_10,CASE0099,Discharge Order Placed,2026-10-05 20:07:00,Emergency,,PAT0099,21-40,Completed,Discharge Approved,1,Not Applicable
+EVT0099_11,CASE0099,Physical Exit,2026-10-05 20:29:00,Exit,,PAT0099,21-40,Completed,Patient Exited,1,Not Applicable
+EVT0100_01,CASE0100,Walk-in Registered,2026-10-10 16:53:00,Front Desk,,PAT0100,61+,Completed,Registered,5,Not Applicable
+EVT0100_02,CASE0100,Triage Started,2026-10-10 17:26:00,Triage,,PAT0100,61+,Completed,Triage Started,5,Not Applicable
+EVT0100_03,CASE0100,Triage Completed,2026-10-10 17:42:00,Triage,,PAT0100,61+,Completed,Triage Completed,5,Not Applicable
+EVT0100_04,CASE0100,Assigned to Waiting Area,2026-10-10 18:02:00,Emergency,,PAT0100,61+,Completed,Waiting Area Assigned,5,Not Applicable
+EVT0100_05,CASE0100,First Physician Contact,2026-10-10 18:19:00,Emergency,DOC003,PAT0100,61+,Completed,Physician Assessment Started,5,Not Applicable
+EVT0100_06,CASE0100,Imaging Order Placed,2026-10-10 18:51:00,Emergency,,PAT0100,61+,Completed,Imaging Order Created,5,Not Applicable
+EVT0100_07,CASE0100,Imaging Results Returned,2026-10-10 19:11:00,Radiology,,PAT0100,61+,Completed,Paperwork Missing - Rework Required,5,Not Applicable
+EVT0100_08,CASE0100,Triage Started,2026-10-10 20:01:00,Triage,,PAT0100,61+,Completed,Triage Repeated After Paperwork Issue,5,Not Applicable
+EVT0100_09,CASE0100,Triage Completed,2026-10-10 20:26:00,Triage,,PAT0100,61+,Completed,Reassessment Completed,5,Not Applicable
+EVT0100_10,CASE0100,First Physician Contact,2026-10-10 21:08:00,Emergency,DOC004,PAT0100,61+,Completed,Repeat Physician Review,5,Not Applicable
+EVT0100_11,CASE0100,Treatment Started,2026-10-10 21:54:00,Treatment Room,DOC008,PAT0100,61+,Completed,Treatment Started,5,Not Applicable
+EVT0100_12,CASE0100,Treatment Completed,2026-10-10 22:33:00,Treatment Room,DOC008,PAT0100,61+,Completed,Treatment Completed,5,Not Applicable
+EVT0100_13,CASE0100,Discharge Order Placed,2026-10-10 23:03:00,Emergency,,PAT0100,61+,Completed,Discharge Approved,5,Not Applicable
+EVT0100_14,CASE0100,Physical Exit,2026-10-10 23:20:00,Exit,,PAT0100,61+,Completed,Patient Exited,5,Not Applicable
